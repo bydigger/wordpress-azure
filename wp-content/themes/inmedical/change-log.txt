@@ -1,0 +1,41 @@
+----- v1.0.0 ------------
+2015/10/19: Initial Release
+
+----- v2.0.0 (2017/09/19) ----------
+- Updated plugin revolution slider to 5.4.6
+- Updated plugin InMedical to v1.0.2
+
+----- v2.1.0 (2017/11/06) ------------
+- Add placeholder for appointment request form.
+- Added auto play for departments slick style
+- Added sponsor link and update new language
+- Added order for departments widget. Allow sort order listing view
+- Fixed problem with background-color for footer copy right not work
+- Fixed language issue
+- Fixed issue for theme support wocommerce 3.2.x
+- Updated: make plugin support multiple department for doctor
+- Updated plugin Visual Composer 5.4.2
+- Updated plugin Revolution Slider 5.4.6.2
+- Updated plugin Inmedical 1.0.5
+- Updated plugin Inwave Common Version Medical 1.0.2
+
+----- v2.1.1 (2018/02/02) ----------------
+- Fixed header css
+- Ffxed doctor extrafield admin link
+- Fixed show doctor info social links
+- Updated plugin Visual Composer 5.4.5
+- Updated plugin Revolution Slider 5.4.7
+- Updated plugin Inmedical 1.0.6
+- Updated plugin Inwave Common Version Medical 1.0.3
+
+----- v2.1.5 (2018/04/13) ----------------
+- Fixed issue with appointments scroll vertical and doctors carousel slider
+- Fixed issue with language and some small bug
+- Fixed Custom css file not loading with https
+- Fixed doctor not show when choose all departments
+- Fixed gallery not working with quick view product + smoothing quick view product popup open
+- Updated and fixed with Woocommerce 3.3.5
+- Updated plugin Revolution slider to 5.4.7.2
+- Updated plugin Visual Composer to 5.4.7
+- Updated plugin Inmedical to 1.0.7
+- Updated plugin Inwave Common to 1.0.4

@@ -1,0 +1,36 @@
+/*
+Theme Package: InMedical
+Theme URI: http://inwavethemes.com/wordpress/inmedical
+Author: inwavethemes
+Author URI: http://inwavethemes.com
+Description: This file using for backend
+*/
+
+.postbox-container .cmb-row.cmb-type-title{
+    background: #eee;
+    margin: -12px -12px;
+    padding: 10px 12px !important;
+}
+.postbox-container tr.cmb-type-title{
+    background: #eee;
+    margin: 5px -12px !important;
+    width: 110%;
+    display: inline-block;
+}
+.postbox-container tr.cmb-type-title td{
+    padding: 3px 12px 0;
+}
+
+.menu-number-column{
+    width: 100%;
+}
+
+.set_custom_images{
+    margin-top: 5px;
+}
+.custom_media_image{
+    margin:0;padding:0;max-width:100px;float:left;display:inline-block
+}
+.custom_media_url, .custom_media_button{
+    margin-top: 5px;
+}
