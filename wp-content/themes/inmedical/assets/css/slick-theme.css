@@ -1,0 +1,55 @@
+/*
+jQuery Slick Themes
+*/
+@charset 'UTF-8';
+/* Slider */
+.slick-loading .slick-list{
+    background: #fff url('../images/ajax-loader.gif') center center no-repeat;
+}
+
+.slick-prev,.slick-next{
+	position: absolute;
+    top: 50%;
+	display: block;
+	border: none;
+    outline: none;
+    background: transparent;
+}
+.slick-dots{
+    position: absolute;
+    display: block;
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.slick-dots li{
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.slick-dots li button{
+    display: block;
+    padding: 5px;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+/* Arrows */
+
+.slick-prev{
+    left: -25px;
+}
+.slick-next{
+    right: -25px;
+}
+
+/* Dots */
+.slick-slider{
+    margin-bottom: 30px;
+}

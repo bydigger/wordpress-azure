@@ -1,0 +1,507 @@
+/*
+Theme Name: InMedical
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+GENERAL
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+    text-align:right;
+}
+.rtl .wpb_column,.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
+    float:right;
+}
+.content-main-right{
+    float:right;
+}
+.content-main-left{
+    float:left;
+}
+th{
+    text-align: right;
+}
+.owl-carousel .owl-item{
+    float:right;
+}
+.pull-right{
+    float:left !important;
+}
+.pull-left{
+    float:right !important;
+}
+
+/*------------------- RTL Panel setting  -----------------*/
+.rtl .panel-tools{
+    left: auto;
+    right: -240px;
+}
+.rtl .panel-tools .panel-button{
+    right: auto;
+    left:-45px;
+}
+.rtl .panel-tools .panel-button{
+    border: 1px solid #dddddd;
+    border-right: 0;
+    border-radius: 2px 0 0 2px;
+}
+
+.widget_recent_entries .recent-blog-posts-default a.recent-blog-post-thumnail{
+	float:right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.default-sidebar .widget .widget-title:before{
+	right:0;
+	left:auto;
+}
+.widget_recent_comments ul li.recentcomments i{
+	margin:0 0 0 4px;
+}
+.breadcrumbs-wrap .breadcrumbs > li{
+	float:right;
+}
+.related-post .related-post-content:before{
+	right:0;
+	left:auto;
+}
+.blog-author .authorAvt{
+    float:right;
+}
+.blog-author .authorAvt + .authorDetails{
+    margin-right:130px;
+	margin-left:0;
+}
+.blog-author .author-name:before{
+    right:0;
+	left:auto
+}
+.post-share-buttons .post-share-buttons-inner{
+    float:left;
+}
+.post-share-buttons .post-share-title{
+    float:right;
+}
+.blog-content .post-item .post-info-date{
+    float:right;
+}
+.blog-content .post-item .post-info-date + .post-main-info{
+    margin-right:80px;
+	margin-left:0;
+}
+.page-heading h1 + .page-heading-desc:before{
+    right:0;
+	left:auto;
+}
+.rtl .widget_nav_menu ul.sub-menu {
+    margin: 0 15px 0 0;
+}
+.rtl .header .iw-top-bar .contact span:first-child {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.rtl .header .iw-top-bar .contact span {
+    margin-left: 0;
+    margin-right: 0;
+}
+.rtl .header .social-header{
+    text-align: left;
+}
+.rtl .language-appointment-header{
+    text-align: left;
+}
+.rtl .header-default .navbar-nav > li{
+    float: right;
+}
+.rtl .header-default .iw-header .iw-menu-main .navbar-nav > li:last-child > a{
+    border: 0;
+}
+.rtl .header .navbar-nav > li > .sub-menu{
+    left: auto;
+    right: 0;
+}
+.rtl .header .iw-header .iw-menu-main .navbar-nav > li.wrap-1-column > .sub-menu li a i,
+.rtl .header .iw-header .iw-menu-main .navbar-nav > li.wrap-2-column > .sub-menu li a i,
+.rtl .header .iw-header .iw-menu-main .navbar-nav > li.wrap-3-column > .sub-menu li a i,
+.rtl .header .iw-header .iw-menu-main .navbar-nav > li.wrap-4-column > .sub-menu li a i{
+    display: inline-block;
+    padding-right: 0;
+    padding-left: 15px;
+}
+.rtl .header .iw-top-bar .contact span:first-child{
+    padding-right: 15px;
+}
+.rtl .header.header-version-2 .iw-logo::after{
+    left: auto;
+    right: -28px;
+    -webkit-transform: skewX(-30deg);
+    transform: skewX(-30deg)
+}
+.rtl .header.header-version-2 .search-form > button{
+    right: auto;
+    left: 20px;
+}
+.rtl .header.header-version-2 .navbar-default .navbar-nav > li{
+    float: right;
+}
+.rtl .header.header-version-2 .navbar-default .navbar-nav > li > a::after{
+    right: auto;
+    left: 0;
+}
+.rtl .header-version-3 .social-header {
+    float: left;
+}
+.rtl .header-version-3 .iw-top-bar {
+    float: left;
+}
+.rtl .header.header-version-3 .iw-search-cart{
+    right: auto;
+    left: 15px;
+}
+.rtl .header.header-version-3 .navbar-nav > li {
+    float: right;
+}
+.rtl .header.header-version-3 .navbar-default .navbar-nav > li > a::after{
+    -webkit-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+}
+.rtl .header.header-version-3 .navbar-default .navbar-nav > li:first-child > a::after{
+    display: none;
+}
+.rtl .header.header-version-3 .navbar-default .navbar-nav > li:last-child > a::after{
+    display: block;
+}
+
+/*-------------- add-on opening-hours in home-3 -------------*/
+.wpb_single_image.wpb_content_element.choose-doctor-home-3{
+    right: auto;
+    left: 130px;
+}
+.choose-doctor-home-3 img{
+    right: auto;
+    left: 0;
+}
+.iw-item-info.style5 .tag-img {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+.iw-item-info.style5 .item-info-content {
+    text-align: left;
+}
+.iw-item-info.style5 .item-info-content h3::after{
+    right: auto;
+    left: 0;
+}
+
+
+.rtl .iw-footer-default .iw-footer-middle .widget-title::after{
+    left: auto;
+    right: 0;
+}
+.rtl .iw-footer-middle .widget_nav_menu .menu li a {
+    padding: 0 20px 0 0;
+}
+.rtl .iw-footer-middle .widget_nav_menu .menu li a:after {
+    left: auto;
+    right: 0;
+}
+.rtl .breadcrumbs > li {
+    float: right;
+}
+.page-heading h1 + .page-heading-desc:before {
+    left: auto;
+    right: 0;
+}
+.rtl .language-appointment-header {
+    float: left;
+}
+.rtl .header .off-canvas-btn {
+    float: left;
+    margin-left: 0;
+    margin-right: 10px;
+}
+.rtl .header .language-appointment-header .header-book-button,
+.rtl .header.clone .iw-logo-appointment .language-appointment-header {
+    float: left;
+}
+.rtl .header .language-appointment-header .header-book-button {
+    margin-right: 0;
+}
+.rtl .cart-quickaccess {
+    float: right !important;
+    margin-right: 0;
+}
+.rtl .header-version-v4 .language-appointment-header {
+    float: none;
+}
+.rtl .header .header-book-button a {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.rtl .cart-quickaccess .cart-product-number {
+    right: auto;
+    left: -15px;
+}
+.rtl .header-version-v4 .language-appointment-header .cart-quickaccess {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.rtl .header .navbar-default .sticky-logo-wrap,
+.rtl .header .navbar-default .iw-menu-header-default,
+.rtl .header .navbar-default .header-book-button {
+    float: right;
+}
+.rtl .header.header-version-2 .top-search {
+    text-align: right;
+}
+.rtl .header-version-v4 .navbar-default .navbar-nav > li {
+    float: right;
+}
+.rtl .header-version-v4 .navbar-default .navbar-nav > li > a:before {
+    right: auto;
+    left: 0;
+}
+.rtl .header-version-v4.header .social-header {
+    float: right;
+}
+.rtl .header-version-v4.header .iw-search-cart {
+    float: left;
+}
+.rtl .header-version-v4.header .iw-search-cart .search-form:before {
+    left: auto;
+    right: 0;
+}
+/*-------------------- Header V5 ------------------*/
+.rtl .wrapper.header-style-5 {
+    margin-left: 0;
+    margin-right: 300px;
+}
+.rtl .header.header-version-5 {
+    left: auto;
+    right: 0;
+}
+.rtl .header-style-5 .main-menu .menu-item > a i {
+    margin: 0 0 0 5px;
+}
+.rtl .header-style-5 .main-menu span.icon-arrow {
+    left: 35px;
+    right: auto;
+}
+.rtl .header-style-5 .main-menu span.icon-arrow:before {
+    content: "\f3d2";
+}
+.rtl .header-version-5 .make-appointment-header-v5 {
+    padding: 0 50px 0 0;
+}
+.rtl .header-style-5 .main-menu .menu-item .sub-menu {
+    left: auto;
+    right: 80%;
+}
+.rtl .header-style-5 .main-menu .menu-item:hover > .sub-menu {
+    right: 100%;
+}
+.header.header-version-3 .iw-search-cart {
+    float: left;
+    text-align: left;
+}
+.header.header-version-3 .main-menu {
+    float: right;
+}
+.rtl .header-version-v6 .social-header, .rtl .header-version-v6 .iw-top-bar {
+    float: left;
+}
+.header.header-version-v6 .navbar-default .navbar-nav {
+    text-align: left;
+}
+.rtl .header.header-version-v6 .navbar-default .navbar-nav > li:last-child {
+    padding: 0 10px 0 0;
+}
+.rtl .footer-kid-widget-contact .footer-contact-address i {
+    margin: 0 0 0 30px;
+}
+.rtl .footer-kid-widget-contact .footer-social-contact li {
+    margin: 0 0 0 10px;
+}
+.page-nav .page-numbers {
+    float: right;
+}
+.blog-content.blog-content .post-item .feature-post {
+    margin-right: 0;
+    margin-left: 10px;
+}
+/*-------------------- Responsive ------------------*/
+@media (max-width: 1366px) {
+    .rtl .header.header-version-5 {
+        width: 250px;
+    }
+    .rtl .wrapper.header-style-5 {
+        margin-left: 0;
+        margin-right: 250px;
+    }
+    .rtl .header-version-5 .make-appointment-header-v5 {
+        padding: 0 30px 0 0;
+    }
+}
+
+@media (max-width: 991px) {
+    .rtl .wrapper.header-style-5 {
+        margin: 0;
+    }
+    .rtl .header.header-version-5 {
+        background: #fff none repeat scroll 0 0;
+        height: auto;
+        left: auto;
+        position: relative;
+        right: 0;
+        top: 0;
+        width: 100%;
+        z-index: 2;
+    }
+    .rtl .header.header-version-5.clone {
+        bottom: auto;
+        left: 0;
+        position: fixed !important;
+        right: 0;
+        top: -200px;
+        -webkit-transition: top 0.2s cubic-bezier(0.3, 0.73, 0.3, 0.74) 0s;
+        transition: top 0.2s cubic-bezier(0.3, 0.73, 0.3, 0.74) 0s;
+        z-index: 99;
+        display: table;
+    }
+    body.rtl.down .header.header-version-5.clone {
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.118);
+        top: 0;
+    }
+    .rtl .header-version-5 .make-appointment-header-v5 {
+        padding: 0 15px;
+        float: left;
+    }
+    .rtl .header-style-5 .logo-header {
+        float: right;
+    }
+    .rtl .header-style-5 .header-bottom, .rtl .header-version-5 .make-appointment-header-v5 .header-book-button {
+        float: left;
+    }
+    .rtl .menu-mobile {
+        right: auto;
+        left: 20px;
+    }
+
+    .rtl .social-header .iw-social-all {
+        text-align: right;
+    }
+    .rtl #off-canvas-close i {
+        right: auto;
+        left: 0;
+    }
+    .rtl .off-canvas-menu .canvas-menu span span.icon-arrow {
+        right: auto;
+        left: 0;
+    }
+    .rtl .header-default.clone .menu-mobile{
+        background: white!important;
+    }
+
+    .st-body {
+        right: auto;
+        left: 0;
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+
+    /* Effect 3: Push*/
+    .rtl .st-body{
+        right: auto;
+        left: 0;
+    }
+    .rtl.st-effect-3.st-menu-open .st-body {
+        right: auto;
+        left: 240px;
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+    .st-effect-3 .st-menu {
+        background: #1c1c1c;
+        right: auto;
+        left: -240px;
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+
+
+    .st-effect-3.st-menu-open .st-menu {
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+        left: 0px;
+        right: auto;
+    }
+
+    .rtl .header.header-version-2 .iw-logo{
+        text-align: right;
+    }
+    .rtl .header.header-version-2 .off-canvas-btn{
+        top: 30px;
+    }
+    .rtl .header.header-version-2.clone .off-canvas-btn{
+        top: 23px;
+    }
+    .rtl .header.header-version-2 .off-canvas-btn,
+    .rtl .header.header-version-2 .off-canvas-btn{
+        left: 0;
+        right: auto;
+    }
+    .rtl .header.header-version-2 .search-form > button,
+    .rtl .header.header-version-3 .search-form > button{
+        left: 40px;
+    }
+    .rtl .header.header-version-3 .off-canvas-btn{
+        right: auto;
+        left: 0;
+    }
+    .rtl .header.header-version-3 .off-canvas-btn{
+        top: 0;
+    }
+
+
+}
+@media (max-width: 980px) {
+    .wpb_single_image.wpb_content_element.choose-doctor-home-3 {
+        right: auto;
+        left: auto;
+    }
+
+}
+@media (max-width: 767px) {
+    .rtl .header .language-appointment-header .header-book-button {
+        margin-right: 0;
+    }
+    .rtl .cart-quickaccess,
+    .rtl .rtl .header-version-v4 .language-appointment-header .cart-quickaccess {
+        float: none !important;
+    }
+
+}
+@media (max-width: 480px) {
+    .rtl .header-version-v4 .language-appointment-header .cart-quickaccess {
+        margin-left: 3px;
+    }
+    .rtl .cart-quickaccess .cart-product-number {
+        right: auto;
+        left: -4px;
+    }
+
+}
+
+
+
+
+
+
+

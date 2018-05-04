@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">inwave_background_color_page</custom-field>
+        <custom-field action="copy">inwave_slider</custom-field>
+        <custom-field action="copy">inwave_show_pageheading</custom-field>
+        <custom-field action="copy">inwave_pageheading_bg</custom-field>
+        <custom-field action="copy">inwave_logo</custom-field>
+        <custom-field action="copy">inwave_sidebar_position</custom-field>
+        <custom-field action="copy">inwave_sidebar_name</custom-field>
+        <custom-field action="copy">inwave_page_class</custom-field>
+        <custom-field action="copy">inwave_header_option</custom-field>
+        <custom-field action="copy">inwave_header_sticky</custom-field>
+        <custom-field action="copy">inwave_primary_menu</custom-field>
+        <custom-field action="copy">inwave_footer_option</custom-field>
+        <custom-field action="copy">inwave_theme_style</custom-field>
+        <custom-field action="copy">inwave_waypoints</custom-field>
+    </custom-fields>
+    <custom-types>
+    </custom-types>
+    <taxonomies>
+    </taxonomies>
+</wpml-config>

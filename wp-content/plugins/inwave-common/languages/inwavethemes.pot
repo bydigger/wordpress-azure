@@ -1,0 +1,1828 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Inwave Common Version Medical\n"
+"POT-Creation-Date: 2017-04-14 16:59+0700\n"
+"PO-Revision-Date: 2017-03-04 14:52+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: inwave-common.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: inc/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: inc/metaboxes/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: inc/metaboxes/init.php:259
+msgid "Default"
+msgstr ""
+
+#: inc/metaboxes/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: inc/metaboxes/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: inc/metaboxes/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/metaboxes/init.php:1179
+msgid "Save"
+msgstr ""
+
+#: inc/parsers.php:42 inc/parsers.php:72 inc/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/parsers.php:84 inc/parsers.php:89 inc/parsers.php:306
+#: inc/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/shortcode.class.php:44
+msgid "Not exists"
+msgstr ""
+
+#: inc/shortcode.class.php:163 inc/shortcode.class.php:170
+msgid "Animation"
+msgstr ""
+
+#: inc/shortcode.class.php:195
+msgid "Insert IW Shortcode"
+msgstr ""
+
+#: inc/shortcode.class.php:200
+msgid "List Shortcode"
+msgstr ""
+
+#: inc/shortcode.class.php:202
+msgid "Shortcode filter"
+msgstr ""
+
+#: inc/shortcode.class.php:238
+msgid "Shortcode settings"
+msgstr ""
+
+#: inc/shortcode.class.php:247
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/shortcode.class.php:248
+msgid "Cancel"
+msgstr ""
+
+#: inc/shortcode.class.php:249
+msgid "Preview"
+msgstr ""
+
+#: inc/shortcode.class.php:393
+msgid "Click to select new or search..."
+msgstr ""
+
+#: inc/shortcode.class.php:572
+msgid "Add more user's skill"
+msgstr ""
+
+#: inc/shortcode.class.php:623
+msgid "Select Event"
+msgstr ""
+
+#: inc/shortcode.class.php:644
+msgid "All Categories"
+msgstr ""
+
+#: inc/wordpress-importer.php:134 inc/wordpress-importer.php:203
+#: inc/wordpress-importer.php:264 inc/wordpress-importer.php:268
+#: inc/wordpress-importer.php:277
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/wordpress-importer.php:248
+msgid "All done."
+msgstr ""
+
+#: inc/wordpress-importer.php:248
+msgid "Have fun!"
+msgstr ""
+
+#: inc/wordpress-importer.php:249
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/wordpress-importer.php:269
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/wordpress-importer.php:285
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/wordpress-importer.php:310
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/wordpress-importer.php:336
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/wordpress-importer.php:337
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/wordpress-importer.php:339
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/wordpress-importer.php:349
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/wordpress-importer.php:352
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/wordpress-importer.php:356
+msgid "Submit"
+msgstr ""
+
+#: inc/wordpress-importer.php:369
+msgid "Import author:"
+msgstr ""
+
+#: inc/wordpress-importer.php:380
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/wordpress-importer.php:383
+msgid "as a new user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:391
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:393
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/wordpress-importer.php:394
+msgid "- Select -"
+msgstr ""
+
+#: inc/wordpress-importer.php:444
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/wordpress-importer.php:495
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:539
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:588 inc/wordpress-importer.php:811
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:678
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:715
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/wordpress-importer.php:777
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/wordpress-importer.php:951
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/wordpress-importer.php:958
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:1033
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/wordpress-importer.php:1048
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/wordpress-importer.php:1096
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/wordpress-importer.php:1103
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/wordpress-importer.php:1111
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/wordpress-importer.php:1117
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/wordpress-importer.php:1124
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/wordpress-importer.php:1223
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/wordpress-importer.php:1230
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/wordpress-importer.php:1245
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/wordpress-importer.php:1246
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: shortcodes/button.php:18
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button.php:19
+msgid "Insert a button with some styles"
+msgstr ""
+
+#: shortcodes/button.php:35
+msgid "Button Border Color"
+msgstr ""
+
+#: shortcodes/button.php:37
+msgid "Border color for Button"
+msgstr ""
+
+#: shortcodes/button.php:76
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/button.php:83
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/button.php:85
+msgid "Color for Button"
+msgstr ""
+
+#: shortcodes/button.php:90
+msgid "Button Font Weight"
+msgstr ""
+
+#: shortcodes/button.php:91
+msgid "Font Weight Button Text"
+msgstr ""
+
+#: shortcodes/button.php:105
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/button.php:120
+msgid "Select Icon"
+msgstr ""
+
+#: shortcodes/button.php:124 shortcodes/item_info.php:215
+#: shortcodes/tabs.php:107 shortcodes/testimonials.php:200
+msgid ""
+"Click and select icon of your choice. You can get complete list of available "
+"icons here: <a target='_blank' href='http://fortawesome.github.io/Font-"
+"Awesome/icons/'>Font-Awesome</a>"
+msgstr ""
+
+#: shortcodes/button.php:128
+msgid "Icon Position"
+msgstr ""
+
+#: shortcodes/button.php:137
+msgid "Border Icon"
+msgstr ""
+
+#: shortcodes/button.php:146
+msgid "button align"
+msgstr ""
+
+#: shortcodes/button.php:157 shortcodes/button.php:170
+#: shortcodes/button.php:183
+msgid "Button Hover"
+msgstr ""
+
+#: shortcodes/button.php:196 shortcodes/contact.php:118
+#: shortcodes/departments_slider_custom.php:76
+#: shortcodes/departments_slider_custom.php:138
+#: shortcodes/doctors_schedule.php:88 shortcodes/heading.php:173
+#: shortcodes/info_list.php:27 shortcodes/iw_accordions.php:90
+#: shortcodes/iw_accordions.php:152 shortcodes/iw_appoinment_form.php:40
+#: shortcodes/iw_department.php:88 shortcodes/iw_departments.php:176
+#: shortcodes/iw_doctor.php:78 shortcodes/iw_doctor_custom.php:87
+#: shortcodes/iw_doctors.php:174 shortcodes/iw_event_listing.php:31
+#: shortcodes/iw_sponsors.php:57 shortcodes/iw_sponsors.php:115
+#: shortcodes/iw_time_table.php:23 shortcodes/iw_upcomming_event.php:69
+#: shortcodes/map.php:166 shortcodes/multi_map.php:120
+#: shortcodes/multi_map.php:196 shortcodes/opening_hours.php:86
+#: shortcodes/posts.php:120 shortcodes/pricings.php:58
+#: shortcodes/simple_list.php:36 shortcodes/tabs.php:73 shortcodes/tabs.php:113
+#: shortcodes/testimonials.php:70 shortcodes/testimonials.php:228
+#: shortcodes/tweet.php:47
+msgid "Extra Class"
+msgstr ""
+
+#: shortcodes/button.php:198 shortcodes/contact.php:120
+#: shortcodes/doctors_schedule.php:90 shortcodes/heading.php:175
+#: shortcodes/iw_appoinment_form.php:42 shortcodes/iw_department.php:90
+#: shortcodes/iw_departments.php:178 shortcodes/iw_doctor.php:80
+#: shortcodes/iw_doctor_custom.php:89 shortcodes/iw_doctors.php:176
+#: shortcodes/iw_event_listing.php:33 shortcodes/iw_time_table.php:25
+#: shortcodes/iw_upcomming_event.php:71 shortcodes/map.php:168
+#: shortcodes/multi_map.php:122 shortcodes/opening_hours.php:88
+#: shortcodes/posts.php:122 shortcodes/simple_list.php:38
+#: shortcodes/tweet.php:49
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/button.php:202 shortcodes/comparison-slider.php:33
+#: shortcodes/heading.php:400 shortcodes/item_info.php:523
+#: shortcodes/iw_appoinment_form.php:46 shortcodes/iw_department.php:94
+#: shortcodes/iw_departments.php:182 shortcodes/iw_doctor.php:84
+#: shortcodes/iw_doctor_custom.php:93 shortcodes/iw_doctors.php:180
+#: shortcodes/iw_event_listing.php:37 shortcodes/iw_sponsors.php:88
+#: shortcodes/iw_time_table.php:29 shortcodes/iw_upcomming_event.php:75
+#: shortcodes/opening_hours.php:92 shortcodes/pricing_table.php:76
+#: shortcodes/pricings.php:65 shortcodes/pricings.php:166
+#: shortcodes/simple_list.php:73 shortcodes/tab_item.php:58
+#: shortcodes/testimonials.php:77 shortcodes/tweet.php:53
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/button.php:205 shortcodes/comparison-slider.php:35
+#: shortcodes/heading.php:403 shortcodes/item_info.php:525
+#: shortcodes/iw_appoinment_form.php:49 shortcodes/iw_department.php:96
+#: shortcodes/iw_departments.php:185 shortcodes/iw_doctor.php:86
+#: shortcodes/iw_doctor_custom.php:95 shortcodes/iw_doctors.php:183
+#: shortcodes/iw_event_listing.php:39 shortcodes/iw_sponsors.php:90
+#: shortcodes/iw_time_table.php:31 shortcodes/iw_upcomming_event.php:77
+#: shortcodes/opening_hours.php:94 shortcodes/pricing_table.php:78
+#: shortcodes/pricings.php:67 shortcodes/pricings.php:168
+#: shortcodes/simple_list.php:75 shortcodes/tab_item.php:60
+#: shortcodes/testimonials.php:79 shortcodes/tweet.php:56
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/comparison-slider.php:14
+msgid "Comparision Slider"
+msgstr ""
+
+#: shortcodes/comparison-slider.php:21 shortcodes/comparison-slider.php:23
+msgid "Before Image"
+msgstr ""
+
+#: shortcodes/comparison-slider.php:27 shortcodes/comparison-slider.php:29
+msgid "After Image"
+msgstr ""
+
+#: shortcodes/contact.php:36
+msgid "Contact Form"
+msgstr ""
+
+#: shortcodes/contact.php:37
+msgid "Show contact form"
+msgstr ""
+
+#: shortcodes/contact.php:53 shortcodes/doctors_schedule.php:46
+#: shortcodes/heading.php:40 shortcodes/heading.php:47
+#: shortcodes/heading.php:54 shortcodes/heading.php:61
+#: shortcodes/heading.php:68 shortcodes/heading.php:75
+#: shortcodes/heading.php:82 shortcodes/item_info.php:74
+#: shortcodes/item_info.php:81 shortcodes/item_info.php:88
+#: shortcodes/item_info.php:95 shortcodes/item_info.php:102
+#: shortcodes/item_info.php:109 shortcodes/item_info.php:116
+#: shortcodes/item_info.php:123 shortcodes/iw_accordions.php:62
+#: shortcodes/iw_accordions.php:69 shortcodes/iw_accordions.php:76
+#: shortcodes/iw_appoinment_form.php:33 shortcodes/iw_department.php:52
+#: shortcodes/iw_department.php:59 shortcodes/iw_department.php:66
+#: shortcodes/iw_departments.php:48 shortcodes/iw_departments.php:55
+#: shortcodes/iw_departments.php:62 shortcodes/iw_departments.php:69
+#: shortcodes/iw_departments.php:76 shortcodes/iw_departments.php:83
+#: shortcodes/iw_doctor.php:50 shortcodes/iw_doctors.php:46
+#: shortcodes/opening_hours.php:32 shortcodes/opening_hours.php:39
+#: shortcodes/posts.php:51 shortcodes/tabs.php:58
+#: shortcodes/testimonials.php:110 shortcodes/testimonials.php:117
+#: shortcodes/testimonials.php:124 shortcodes/testimonials.php:131
+#: shortcodes/video.php:31
+msgid "Preview Style"
+msgstr ""
+
+#: shortcodes/contact.php:60
+msgid "Receiver Email"
+msgstr ""
+
+#: shortcodes/contact.php:63
+msgid "If not specified, Admin E-mail Address in General setting will be used"
+msgstr ""
+
+#: shortcodes/contact.php:68
+msgid "Title contact form"
+msgstr ""
+
+#: shortcodes/contact.php:74
+msgid "Head Office"
+msgstr ""
+
+#: shortcodes/contact.php:77 shortcodes/contact.php:84
+#: shortcodes/contact.php:91 shortcodes/contact.php:98
+msgid "You can add '///' to insert line break tag (br)"
+msgstr ""
+
+#: shortcodes/contact.php:81
+msgid "Phone Numbers"
+msgstr ""
+
+#: shortcodes/contact.php:88 shortcodes/map.php:144
+#: shortcodes/multi_map.php:168
+msgid "Email Address"
+msgstr ""
+
+#: shortcodes/contact.php:95
+msgid "Get Support Services"
+msgstr ""
+
+#: shortcodes/contact.php:102
+msgid "Button text"
+msgstr ""
+
+#: shortcodes/contact.php:173
+msgid "First name"
+msgstr ""
+
+#: shortcodes/contact.php:181 shortcodes/contact.php:232
+msgid "Email address"
+msgstr ""
+
+#: shortcodes/contact.php:189
+msgid "Your website"
+msgstr ""
+
+#: shortcodes/contact.php:197
+msgid "Write message"
+msgstr ""
+
+#: shortcodes/contact.php:205
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: shortcodes/contact.php:206
+msgid "is require information"
+msgstr ""
+
+#: shortcodes/contact.php:218
+msgid "Head office"
+msgstr ""
+
+#: shortcodes/contact.php:225
+msgid "Phone numbers"
+msgstr ""
+
+#: shortcodes/contact.php:239
+msgid "Get support services"
+msgstr ""
+
+#: shortcodes/contact.php:269
+msgid "Email from Contact Form"
+msgstr ""
+
+#: shortcodes/contact.php:272
+msgid "Hi Admin,"
+msgstr ""
+
+#: shortcodes/contact.php:272
+msgid "This email was sent from contact form"
+msgstr ""
+
+#: shortcodes/contact.php:275 shortcodes/testimonials.php:139
+msgid "Name"
+msgstr ""
+
+#: shortcodes/contact.php:278
+msgid "Email"
+msgstr ""
+
+#: shortcodes/contact.php:281
+msgid "Mobile"
+msgstr ""
+
+#: shortcodes/contact.php:284
+msgid "Website"
+msgstr ""
+
+#: shortcodes/contact.php:287
+msgid "Message"
+msgstr ""
+
+#: shortcodes/contact.php:297
+msgid "Your message was sent, we will contact you soon"
+msgstr ""
+
+#: shortcodes/contact.php:299
+msgid "Can't send message, please try again"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:17
+msgid "Departments Slider Custom"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:29
+msgid "Link All Department"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:35
+msgid "Link All Department Text"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:42
+#: shortcodes/iw_departments.php:125 shortcodes/iw_doctors.php:137
+#: shortcodes/iw_sponsors.php:65 shortcodes/iw_upcomming_event.php:32
+msgid "Items Desktop"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:49
+#: shortcodes/iw_departments.php:133 shortcodes/iw_doctors.php:145
+#: shortcodes/iw_sponsors.php:72 shortcodes/iw_upcomming_event.php:40
+msgid "Items Desktop Small"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:56 shortcodes/iw_sponsors.php:79
+msgid "AutoPlay Slider"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:79
+#: shortcodes/departments_slider_custom.php:141 shortcodes/info_list.php:30
+#: shortcodes/iw_accordions.php:93 shortcodes/iw_accordions.php:155
+#: shortcodes/iw_sponsors.php:60 shortcodes/iw_sponsors.php:118
+#: shortcodes/multi_map.php:199 shortcodes/pricings.php:61
+#: shortcodes/tabs.php:76 shortcodes/tabs.php:116
+#: shortcodes/testimonials.php:73 shortcodes/testimonials.php:231
+msgid "Write your own CSS and mention the class name here."
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:88
+msgid "Department Item"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:93 shortcodes/tabs.php:25
+#: shortcodes/tabs.php:90
+msgid "Add a set of tabs and give some custom style."
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:100
+#: shortcodes/doctors_schedule.php:54 shortcodes/heading.php:106
+#: shortcodes/item_info.php:141 shortcodes/iw_accordions.php:113
+#: shortcodes/multi_map.php:68 shortcodes/opening_hours.php:47
+#: shortcodes/pricings.php:87 shortcodes/tab_item.php:23 shortcodes/tabs.php:99
+#: shortcodes/testimonials.php:153
+msgid "Title"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:107 shortcodes/heading.php:120
+#: shortcodes/item_info.php:160 shortcodes/multi_map.php:75
+#: shortcodes/opening_hours.php:61
+msgid "Description"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:114 shortcodes/item_info.php:178
+msgid "Link Read More"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:120 shortcodes/item_info.php:184
+#: shortcodes/tab_item.php:41
+msgid "Read more text"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:126
+#: shortcodes/departments_slider_custom.php:128
+msgid "Image Department"
+msgstr ""
+
+#: shortcodes/departments_slider_custom.php:132
+msgid "Icon Image Department"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:29 shortcodes/doctors_schedule.php:30
+msgid "Doctors schedule work"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:38 shortcodes/posts.php:43
+#: shortcodes/pricings.php:47
+msgid "Style"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:55
+msgid ""
+"You can add: <br /> |TEXT_EXAMPLE| to specify strong words, <br /"
+">{TEXT_EXAMPLE} to specify colorful words"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:62
+msgid "Link view all schedules"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:68
+msgid "Number of row item"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:75
+msgid "Show navigation"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:77
+msgid ""
+"When your items more than number of row, this list display as slider. You "
+"can show or hide navigation of slider"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:81
+msgid "Max item show"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:117 shortcodes/iw_appoinment_form.php:67
+#: shortcodes/iw_department.php:116 shortcodes/iw_departments.php:212
+#: shortcodes/iw_doctor.php:106 shortcodes/iw_doctors.php:214
+#: shortcodes/iw_event_listing.php:57 shortcodes/iw_time_table.php:48
+#: shortcodes/iw_upcomming_event.php:99
+msgid "Please active Inwave inMedical plugin"
+msgstr ""
+
+#: shortcodes/doctors_schedule.php:130
+msgid "No theme was found"
+msgstr ""
+
+#: shortcodes/heading.php:17
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/heading.php:18
+msgid "Add a heading & some information"
+msgstr ""
+
+#: shortcodes/heading.php:90
+msgid "Heading type"
+msgstr ""
+
+#: shortcodes/heading.php:101
+msgid "Select heading type."
+msgstr ""
+
+#: shortcodes/heading.php:107 shortcodes/item_info.php:142
+#: shortcodes/item_info.php:150 shortcodes/item_info.php:161
+msgid ""
+"You can add |TEXT_EXAMPLE| to specify strong words, <br />{TEXT_EXAMPLE} to "
+"specify colorful words, <br />'///' to insert line break tag (br)"
+msgstr ""
+
+#: shortcodes/heading.php:113 shortcodes/item_info.php:149
+#: shortcodes/iw_accordions.php:127 shortcodes/opening_hours.php:54
+#: shortcodes/pricings.php:94
+msgid "Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:126
+msgid "Width Heading"
+msgstr ""
+
+#: shortcodes/heading.php:128
+msgid "Custom width heading"
+msgstr ""
+
+#: shortcodes/heading.php:181 shortcodes/item_info.php:260
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/heading.php:184 shortcodes/item_info.php:263
+msgid "Color for Title"
+msgstr ""
+
+#: shortcodes/heading.php:190 shortcodes/item_info.php:269
+msgid "Title Font Size"
+msgstr ""
+
+#: shortcodes/heading.php:192 shortcodes/heading.php:269
+#: shortcodes/item_info.php:271 shortcodes/item_info.php:348
+msgid "Custom font-size title. Example: 30px"
+msgstr ""
+
+#: shortcodes/heading.php:197 shortcodes/item_info.php:276
+msgid "Title Font Family"
+msgstr ""
+
+#: shortcodes/heading.php:200 shortcodes/item_info.php:279
+msgid "Font family of Title"
+msgstr ""
+
+#: shortcodes/heading.php:206 shortcodes/heading.php:285
+#: shortcodes/heading.php:358 shortcodes/item_info.php:285
+#: shortcodes/item_info.php:364 shortcodes/item_info.php:437
+#: shortcodes/item_info.php:505
+msgid "Load Font Family from google"
+msgstr ""
+
+#: shortcodes/heading.php:209 shortcodes/heading.php:288
+#: shortcodes/heading.php:361 shortcodes/item_info.php:288
+#: shortcodes/item_info.php:367 shortcodes/item_info.php:440
+#: shortcodes/item_info.php:508
+msgid "No"
+msgstr ""
+
+#: shortcodes/heading.php:210 shortcodes/heading.php:289
+#: shortcodes/heading.php:362 shortcodes/item_info.php:289
+#: shortcodes/item_info.php:368 shortcodes/item_info.php:441
+#: shortcodes/item_info.php:509
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/heading.php:216 shortcodes/item_info.php:295
+msgid "Title Font Weight"
+msgstr ""
+
+#: shortcodes/heading.php:218 shortcodes/item_info.php:297
+msgid "Font weight of Title"
+msgstr ""
+
+#: shortcodes/heading.php:224 shortcodes/item_info.php:303
+msgid "Title Text Transform"
+msgstr ""
+
+#: shortcodes/heading.php:226 shortcodes/item_info.php:305
+msgid "Text Transform of Title"
+msgstr ""
+
+#: shortcodes/heading.php:232 shortcodes/item_info.php:311
+msgid "Title Line Height"
+msgstr ""
+
+#: shortcodes/heading.php:234 shortcodes/item_info.php:313
+msgid "Line height of Title. Example: 30px or 1"
+msgstr ""
+
+#: shortcodes/heading.php:240 shortcodes/item_info.php:319
+msgid "Title Margin-bottom"
+msgstr ""
+
+#: shortcodes/heading.php:242 shortcodes/item_info.php:321
+msgid "Margin bottom of Title"
+msgstr ""
+
+#: shortcodes/heading.php:248 shortcodes/item_info.php:327
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: shortcodes/heading.php:250 shortcodes/item_info.php:329
+msgid "Letter spacing of Title"
+msgstr ""
+
+#: shortcodes/heading.php:257 shortcodes/item_info.php:336
+msgid "Sub Title Color"
+msgstr ""
+
+#: shortcodes/heading.php:260 shortcodes/item_info.php:339
+msgid "Color for Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:267 shortcodes/item_info.php:346
+msgid " Sub Title Font Size"
+msgstr ""
+
+#: shortcodes/heading.php:275 shortcodes/item_info.php:354
+msgid "Sub Title Font Family"
+msgstr ""
+
+#: shortcodes/heading.php:278 shortcodes/item_info.php:357
+msgid "Font family of Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:296 shortcodes/item_info.php:375
+msgid "Sub Title Font Weight"
+msgstr ""
+
+#: shortcodes/heading.php:298 shortcodes/item_info.php:377
+msgid "Font weight of Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:305 shortcodes/item_info.php:384
+msgid "Sub Title Text Transform"
+msgstr ""
+
+#: shortcodes/heading.php:307 shortcodes/item_info.php:386
+msgid "Text Transform of Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:314 shortcodes/item_info.php:393
+msgid "Sub Title Line Height"
+msgstr ""
+
+#: shortcodes/heading.php:316 shortcodes/item_info.php:395
+msgid "Line height of Sub Title"
+msgstr ""
+
+#: shortcodes/heading.php:323 shortcodes/item_info.php:402
+msgid "Margin bottom"
+msgstr ""
+
+#: shortcodes/heading.php:325 shortcodes/item_info.php:404
+msgid "Margin bottom of Sub Title. Example: 30px"
+msgstr ""
+
+#: shortcodes/heading.php:333 shortcodes/item_info.php:412
+msgid "Description Color"
+msgstr ""
+
+#: shortcodes/heading.php:336 shortcodes/item_info.php:415
+msgid "Color for Description"
+msgstr ""
+
+#: shortcodes/heading.php:342 shortcodes/item_info.php:421
+msgid " Description Font Size"
+msgstr ""
+
+#: shortcodes/heading.php:344 shortcodes/item_info.php:423
+msgid "Custom font-size Description. Example: 30px"
+msgstr ""
+
+#: shortcodes/heading.php:349 shortcodes/item_info.php:428
+msgid "Description Font Family"
+msgstr ""
+
+#: shortcodes/heading.php:352 shortcodes/item_info.php:431
+msgid "Font family of Description"
+msgstr ""
+
+#: shortcodes/heading.php:368 shortcodes/item_info.php:447
+msgid "Description Font Weight"
+msgstr ""
+
+#: shortcodes/heading.php:370 shortcodes/item_info.php:449
+msgid "Font weight of Description"
+msgstr ""
+
+#: shortcodes/heading.php:376 shortcodes/item_info.php:455
+msgid "Description Text Transform"
+msgstr ""
+
+#: shortcodes/heading.php:378 shortcodes/item_info.php:457
+msgid "Text Transform of Description"
+msgstr ""
+
+#: shortcodes/heading.php:384 shortcodes/item_info.php:463
+msgid "Description Line Height"
+msgstr ""
+
+#: shortcodes/heading.php:386 shortcodes/item_info.php:465
+msgid "Line height of description"
+msgstr ""
+
+#: shortcodes/heading.php:392 shortcodes/item_info.php:471
+msgid "Margin top"
+msgstr ""
+
+#: shortcodes/heading.php:394 shortcodes/item_info.php:473
+msgid "Margin bottom of Description. Example: 30px"
+msgstr ""
+
+#: shortcodes/info_list.php:15
+msgid "Info List"
+msgstr ""
+
+#: shortcodes/info_list.php:20
+msgid "Add a set of list info and give some custom style."
+msgstr ""
+
+#: shortcodes/item_info.php:17
+msgid "Item Info"
+msgstr ""
+
+#: shortcodes/item_info.php:18
+msgid "Add a item info"
+msgstr ""
+
+#: shortcodes/item_info.php:46 shortcodes/iw_accordions.php:48
+#: shortcodes/tabs.php:44
+msgid "Preview Style ( Icon - background color theme)"
+msgstr ""
+
+#: shortcodes/item_info.php:53 shortcodes/item_info.php:60
+#: shortcodes/item_info.php:67 shortcodes/iw_accordions.php:55
+#: shortcodes/tabs.php:51
+msgid "Preview Style ( Icon - background none)"
+msgstr ""
+
+#: shortcodes/item_info.php:130 shortcodes/iw_doctor_custom.php:69
+msgid "Border item"
+msgstr ""
+
+#: shortcodes/item_info.php:168
+msgid "Sub description"
+msgstr ""
+
+#: shortcodes/item_info.php:194 shortcodes/item_info.php:196
+msgid "Icon Image"
+msgstr ""
+
+#: shortcodes/item_info.php:204 shortcodes/multi_map.php:82
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/item_info.php:213 shortcodes/tabs.php:105
+#: shortcodes/testimonials.php:198
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/item_info.php:224 shortcodes/testimonials.php:209
+msgid "Icon Size"
+msgstr ""
+
+#: shortcodes/item_info.php:226
+msgid "Example: 70. Use for image width or font size icon"
+msgstr ""
+
+#: shortcodes/item_info.php:235
+msgid "Icon align"
+msgstr ""
+
+#: shortcodes/item_info.php:248 shortcodes/simple_list.php:62
+#: shortcodes/tab_item.php:47
+msgid "Text align"
+msgstr ""
+
+#: shortcodes/item_info.php:480
+msgid "Read More Color"
+msgstr ""
+
+#: shortcodes/item_info.php:483
+msgid "Color for Read More"
+msgstr ""
+
+#: shortcodes/item_info.php:489
+msgid " Read More Font Size"
+msgstr ""
+
+#: shortcodes/item_info.php:491
+msgid "Custom font-size Read More. Example: 14px"
+msgstr ""
+
+#: shortcodes/item_info.php:496
+msgid "Read More Font Family"
+msgstr ""
+
+#: shortcodes/item_info.php:499
+msgid "Font family of Read More"
+msgstr ""
+
+#: shortcodes/item_info.php:515
+msgid "Read More Font Weight"
+msgstr ""
+
+#: shortcodes/item_info.php:517
+msgid "Font weight of Read More"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:23
+msgid "Accordions"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:27 shortcodes/iw_accordions.php:106
+msgid "Add a set of Accordion and give some custom style."
+msgstr ""
+
+#: shortcodes/iw_accordions.php:39
+msgid "Accordion 1"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:40
+msgid "Accordion 2"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:41
+msgid "Accordion 3"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:42
+msgid "Accordion 4"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:43
+msgid "Accordion 5"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:83 shortcodes/multi_map.php:61
+#: shortcodes/tabs.php:65 shortcodes/testimonials.php:63
+msgid "Item active"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:85 shortcodes/multi_map.php:63
+#: shortcodes/tabs.php:67 shortcodes/testimonials.php:65
+msgid "Choose item active"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:102
+msgid "Accordion Item"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:119
+msgid "Font Size Title"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:121
+msgid "Custom font-size for heading title. Example 14"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:133
+msgid "Accordion Image"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:135
+msgid "Select image instead of font icon above"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:140 shortcodes/pricing_table.php:23
+#: shortcodes/pricings.php:140 shortcodes/simple_list.php:23
+msgid "Content"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:146
+msgid "Link read more"
+msgstr ""
+
+#: shortcodes/iw_accordions.php:259 shortcodes/iw_accordions.php:287
+#: shortcodes/iw_accordions.php:314 shortcodes/iw_accordions.php:346
+#: shortcodes/iw_department.php:147 shortcodes/posts.php:198
+msgid "Read more"
+msgstr ""
+
+#: shortcodes/iw_appoinment_form.php:15
+msgid "Appoinment Form"
+msgstr ""
+
+#: shortcodes/iw_appoinment_form.php:16 shortcodes/iw_event_listing.php:16
+#: shortcodes/iw_time_table.php:16
+msgid "Create a list of appoinment form"
+msgstr ""
+
+#: shortcodes/iw_department.php:16
+msgid "Select department"
+msgstr ""
+
+#: shortcodes/iw_department.php:26
+msgid "Department"
+msgstr ""
+
+#: shortcodes/iw_department.php:27
+msgid "Show a single of department"
+msgstr ""
+
+#: shortcodes/iw_department.php:82
+msgid "Department Image"
+msgstr ""
+
+#: shortcodes/iw_departments.php:16 shortcodes/iw_doctors.php:16
+#: shortcodes/posts.php:28
+msgid "All"
+msgstr ""
+
+#: shortcodes/iw_departments.php:26
+msgid "Departments"
+msgstr ""
+
+#: shortcodes/iw_departments.php:27
+msgid "Create a list of departments"
+msgstr ""
+
+#: shortcodes/iw_departments.php:162
+msgid "Link view all"
+msgstr ""
+
+#: shortcodes/iw_departments.php:169
+msgid "Link all text"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:16
+msgid "Select doctor"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:26
+msgid "Doctor"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:27
+msgid "Show a single of doctor"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:66 shortcodes/iw_doctor_custom.php:23
+msgid "Doctor Image"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:167
+msgid "Department: "
+msgstr ""
+
+#: shortcodes/iw_doctor.php:168
+msgid "Email: "
+msgstr ""
+
+#: shortcodes/iw_doctor.php:175
+msgid "Social Profile"
+msgstr ""
+
+#: shortcodes/iw_doctor.php:188
+msgid "view doctor schedules"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:15
+msgid "Doctor Custom"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:16
+msgid "Add a item info doctor"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:53
+msgid "Social links"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:54
+msgid "Separated by newline"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:62
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:64
+msgid "Background for item"
+msgstr ""
+
+#: shortcodes/iw_doctor_custom.php:78
+msgid "Background title"
+msgstr ""
+
+#: shortcodes/iw_doctors.php:26
+msgid "Doctors"
+msgstr ""
+
+#: shortcodes/iw_doctors.php:27
+msgid "Create a list of doctors"
+msgstr ""
+
+#: shortcodes/iw_doctors.php:60
+msgid "Doctor Ids"
+msgstr ""
+
+#: shortcodes/iw_doctors.php:90
+msgid "Number of doctor per page"
+msgstr ""
+
+#: shortcodes/iw_event_listing.php:15
+msgid "Event Listing"
+msgstr ""
+
+#: shortcodes/iw_event_listing.php:23 shortcodes/iw_upcomming_event.php:23
+msgid "Post number"
+msgstr ""
+
+#: shortcodes/iw_event_listing.php:27 shortcodes/iw_upcomming_event.php:27
+msgid "Number of posts to display."
+msgstr ""
+
+#: shortcodes/iw_sponsors.php:34
+msgid "Sponsors"
+msgstr ""
+
+#: shortcodes/iw_sponsors.php:39
+msgid "Add a set of sponsor and give some custom style."
+msgstr ""
+
+#: shortcodes/iw_sponsors.php:98
+msgid "Sponsor Item"
+msgstr ""
+
+#: shortcodes/iw_sponsors.php:104
+msgid "Add a list of sponsors with some content and give some custom style."
+msgstr ""
+
+#: shortcodes/iw_sponsors.php:109
+msgid "Sponsor Image"
+msgstr ""
+
+#: shortcodes/iw_time_table.php:15
+msgid "Time Table"
+msgstr ""
+
+#: shortcodes/iw_upcomming_event.php:15
+msgid "Upcomming Event"
+msgstr ""
+
+#: shortcodes/iw_upcomming_event.php:16
+msgid "Create a upcomming event list"
+msgstr ""
+
+#: shortcodes/map.php:38 shortcodes/multi_map.php:42
+msgid "Display a Google Map"
+msgstr ""
+
+#: shortcodes/map.php:55
+msgid "Map Image"
+msgstr ""
+
+#: shortcodes/map.php:60 shortcodes/multi_map.php:88
+msgid "Marker Icon"
+msgstr ""
+
+#: shortcodes/map.php:65 shortcodes/multi_map.php:147
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/map.php:72 shortcodes/multi_map.php:154
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/map.php:79 shortcodes/multi_map.php:93
+msgid "Zoom"
+msgstr ""
+
+#: shortcodes/map.php:85 shortcodes/multi_map.php:99
+msgid "Map height"
+msgstr ""
+
+#: shortcodes/map.php:88 shortcodes/multi_map.php:102
+msgid "Example: 400(in px) or 100vh"
+msgstr ""
+
+#: shortcodes/map.php:92 shortcodes/multi_map.php:106
+msgid "panBy x"
+msgstr ""
+
+#: shortcodes/map.php:95 shortcodes/multi_map.php:109
+msgid ""
+"Changes the center of the map by the given distance in pixels.. Example: 50"
+msgstr ""
+
+#: shortcodes/map.php:99 shortcodes/multi_map.php:113
+msgid "panBy y"
+msgstr ""
+
+#: shortcodes/map.php:102 shortcodes/multi_map.php:116
+msgid ""
+"Changes the center of the map by the given distance in pixels. Example: 50"
+msgstr ""
+
+#: shortcodes/map.php:106
+msgid "Map Info width"
+msgstr ""
+
+#: shortcodes/map.php:112
+msgid "Map Info Height"
+msgstr ""
+
+#: shortcodes/map.php:118
+msgid "Map Info panBy x"
+msgstr ""
+
+#: shortcodes/map.php:124
+msgid "Map Info panBy y"
+msgstr ""
+
+#: shortcodes/map.php:130 shortcodes/multi_map.php:161
+msgid "Address"
+msgstr ""
+
+#: shortcodes/map.php:133 shortcodes/multi_map.php:164
+msgid "Enter address."
+msgstr ""
+
+#: shortcodes/map.php:137 shortcodes/multi_map.php:175
+msgid "Phone number"
+msgstr ""
+
+#: shortcodes/map.php:140 shortcodes/multi_map.php:178
+msgid "Enter phone number."
+msgstr ""
+
+#: shortcodes/map.php:147 shortcodes/multi_map.php:171
+msgid "Enter email address."
+msgstr ""
+
+#: shortcodes/map.php:151 shortcodes/multi_map.php:189
+msgid "Website URL"
+msgstr ""
+
+#: shortcodes/map.php:154 shortcodes/multi_map.php:192
+msgid "Enter webite URL."
+msgstr ""
+
+#: shortcodes/map.php:160
+msgid "Add contact form 7 ID"
+msgstr ""
+
+#: shortcodes/multi_map.php:71
+msgid "Enter title."
+msgstr ""
+
+#: shortcodes/multi_map.php:78
+msgid "Enter description."
+msgstr ""
+
+#: shortcodes/multi_map.php:84
+msgid "Background Image block"
+msgstr ""
+
+#: shortcodes/multi_map.php:130
+msgid "Multi Map Item"
+msgstr ""
+
+#: shortcodes/multi_map.php:135
+msgid "Add a list of map item with some content and give some custom style."
+msgstr ""
+
+#: shortcodes/multi_map.php:140
+msgid "Contact info title"
+msgstr ""
+
+#: shortcodes/multi_map.php:143
+msgid "Enter contact info title."
+msgstr ""
+
+#: shortcodes/multi_map.php:182
+msgid "Website Name"
+msgstr ""
+
+#: shortcodes/multi_map.php:185
+msgid "Enter webite name."
+msgstr ""
+
+#: shortcodes/only_register_vc.php:8 shortcodes/only_register_vc.php:41
+msgid "All Departments"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:16
+msgid "Appoinments Calendar"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:17
+msgid "Create a Appoinments Calendar"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:23 shortcodes/only_register_vc.php:56
+msgid "Select Department"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:49
+msgid "Appoinments Scroll Vertical"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:50
+msgid "Create a Appoinments Scroll Vertical"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:62
+msgid "Number days show"
+msgstr ""
+
+#: shortcodes/only_register_vc.php:68
+msgid "Number items show"
+msgstr ""
+
+#: shortcodes/opening_hours.php:14 shortcodes/opening_hours.php:68
+msgid "Opening Hours"
+msgstr ""
+
+#: shortcodes/opening_hours.php:15
+msgid "Add a opening hours"
+msgstr ""
+
+#: shortcodes/opening_hours.php:79 shortcodes/opening_hours.php:146
+msgid "Emergency line"
+msgstr ""
+
+#: shortcodes/posts.php:34
+msgid "Posts"
+msgstr ""
+
+#: shortcodes/posts.php:35
+msgid "Display a list of posts "
+msgstr ""
+
+#: shortcodes/posts.php:58
+msgid "Post Ids"
+msgstr ""
+
+#: shortcodes/posts.php:61
+msgid "Id of posts you want to get. Separated by commas."
+msgstr ""
+
+#: shortcodes/posts.php:65
+msgid "Post Category"
+msgstr ""
+
+#: shortcodes/posts.php:68
+msgid "Category to get posts."
+msgstr ""
+
+#: shortcodes/posts.php:72
+msgid "Post per page"
+msgstr ""
+
+#: shortcodes/posts.php:76
+msgid "Number of posts to display on box."
+msgstr ""
+
+#: shortcodes/posts.php:91
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/posts.php:104
+msgid "Order Type"
+msgstr ""
+
+#: shortcodes/posts.php:113
+msgid "Number word of description"
+msgstr ""
+
+#: shortcodes/posts.php:114
+msgid "Trim description. Exp: 15"
+msgstr ""
+
+#: shortcodes/pricing_table.php:14
+msgid "Pricing Table"
+msgstr ""
+
+#: shortcodes/pricing_table.php:15
+msgid "Add a pricing table"
+msgstr ""
+
+#: shortcodes/pricings.php:35
+msgid "Pricing List"
+msgstr ""
+
+#: shortcodes/pricings.php:40 shortcodes/testimonials.php:46
+msgid "Add a set of testimonial and give some custom style."
+msgstr ""
+
+#: shortcodes/pricings.php:75
+msgid "Pricing Item"
+msgstr ""
+
+#: shortcodes/pricings.php:81
+msgid "Add a pricing item."
+msgstr ""
+
+#: shortcodes/pricings.php:100
+msgid "Price"
+msgstr ""
+
+#: shortcodes/pricings.php:106
+msgid "HTML Currency Symbol"
+msgstr ""
+
+#: shortcodes/pricings.php:112
+msgid "Currency Symbols Position"
+msgstr ""
+
+#: shortcodes/pricings.php:115
+msgid "Left"
+msgstr ""
+
+#: shortcodes/pricings.php:116
+msgid "Right"
+msgstr ""
+
+#: shortcodes/pricings.php:121
+msgid "Calculation Unit"
+msgstr ""
+
+#: shortcodes/pricings.php:127
+msgid "Purchase button text"
+msgstr ""
+
+#: shortcodes/pricings.php:133
+msgid "Purchase link"
+msgstr ""
+
+#: shortcodes/pricings.php:155
+msgid "Featured?"
+msgstr ""
+
+#: shortcodes/pricings.php:160
+msgid "Header image"
+msgstr ""
+
+#: shortcodes/pricings.php:161
+msgid "Using for pricing table style 1."
+msgstr ""
+
+#: shortcodes/pricings.php:266 shortcodes/pricings.php:294
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/simple_list.php:14
+msgid "Simple List"
+msgstr ""
+
+#: shortcodes/simple_list.php:15
+msgid "Add a items list with some simple style"
+msgstr ""
+
+#: shortcodes/tab_item.php:14
+msgid "Tab Item"
+msgstr ""
+
+#: shortcodes/tab_item.php:15
+msgid "Add a tab item for tabs"
+msgstr ""
+
+#: shortcodes/tab_item.php:29 shortcodes/testimonials.php:160
+msgid "Testimonial Content"
+msgstr ""
+
+#: shortcodes/tab_item.php:35 shortcodes/testimonials.php:167
+msgid "Link"
+msgstr ""
+
+#: shortcodes/tabs.php:21
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/tabs.php:85
+msgid "Tab Container"
+msgstr ""
+
+#: shortcodes/testimonials.php:41
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/testimonials.php:87
+msgid "Testimonial Item"
+msgstr ""
+
+#: shortcodes/testimonials.php:92
+msgid ""
+"Add a list of testimonials with some content and give some custom style."
+msgstr ""
+
+#: shortcodes/testimonials.php:146
+msgid "Position"
+msgstr ""
+
+#: shortcodes/testimonials.php:175
+msgid "Text Link"
+msgstr ""
+
+#: shortcodes/testimonials.php:182
+msgid "Client Image"
+msgstr ""
+
+#: shortcodes/testimonials.php:188
+msgid "Icon Image top"
+msgstr ""
+
+#: shortcodes/testimonials.php:211
+msgid "Example: 24. Use for image width or font size icon"
+msgstr ""
+
+#: shortcodes/testimonials.php:220
+msgid "Rating"
+msgstr ""
+
+#: shortcodes/tweet.php:14
+msgid "Tweet"
+msgstr ""
+
+#: shortcodes/tweet.php:15
+msgid "Schedule a countdown until a time in the future"
+msgstr ""
+
+#: shortcodes/tweet.php:22
+msgid "User name"
+msgstr ""
+
+#: shortcodes/tweet.php:25
+msgid ""
+"Enter Twitter User name, if is blank we are will get from theme options."
+msgstr ""
+
+#: shortcodes/tweet.php:29
+msgid "Number"
+msgstr ""
+
+#: shortcodes/tweet.php:32
+msgid "Choose among how many tweets."
+msgstr ""
+
+#: shortcodes/tweet.php:36
+msgid "Options"
+msgstr ""
+
+#: shortcodes/tweet.php:39
+msgid "Show Hyperlinks"
+msgstr ""
+
+#: shortcodes/tweet.php:40
+msgid "Find @replies"
+msgstr ""
+
+#: shortcodes/tweet.php:41
+msgid "UTF8 Encode"
+msgstr ""
+
+#: shortcodes/tweet.php:86
+msgid ""
+"StormTwitter.class.php is not found. please active inwave-common plugin."
+msgstr ""
+
+#: shortcodes/video.php:14
+msgid "Video HTML"
+msgstr ""
+
+#: shortcodes/video.php:15
+msgid "Add a video HTML"
+msgstr ""
+
+#: shortcodes/video.php:38
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/video.php:45
+msgid "Poster image"
+msgstr ""
+
+#: shortcodes/video.php:51
+msgid "Open video on popup?"
+msgstr ""
+
+#: shortcodes/video.php:56
+msgid "Crop poster image?"
+msgstr ""
+
+#: shortcodes/video.php:62
+msgid "Poster Image width"
+msgstr ""
+
+#: shortcodes/video.php:64
+msgid "Example: 800"
+msgstr ""
+
+#: shortcodes/video.php:70
+msgid "Poster Image height "
+msgstr ""
+
+#: shortcodes/video.php:72
+msgid ""
+"Example: 600.<br /> If \"Crop poster image\" is not checked, poster height "
+"is element height."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Inwave Common Version Medical"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://inwavethemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Includes advanced addon elements for Visual Composer, Custom post type, ..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Inwavethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.inwavethemes.com"
+msgstr ""

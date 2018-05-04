@@ -1,0 +1,2382 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: InMedical\n"
+"POT-Creation-Date: 2017-04-14 16:58+0700\n"
+"PO-Revision-Date: 2017-03-23 15:18+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: inmedical.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/inMediacalDepartment.php:28
+msgid "Department Detail"
+msgstr ""
+
+#: includes/classes/inMediacalDepartment.php:98
+msgid "Label"
+msgstr ""
+
+#: includes/classes/inMediacalDepartment.php:99
+#: includes/classes/inMediacalDoctor.php:133
+#: includes/classes/inMediacalDoctor.php:246
+#: includes/classes/inMediacalDoctor.php:398
+#: includes/views/extrafield.edit.php:122
+msgid "Value"
+msgstr ""
+
+#: includes/classes/inMediacalDepartment.php:106
+#: includes/views/extrafield.edit.php:46
+msgid "Icon"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:28
+msgid "Doctor Information"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:31
+msgid "Education profile"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:132
+#: includes/classes/inMediacalDoctor.php:245
+#: includes/classes/inMediacalDoctor.php:479
+#: includes/views/extrafield.edit.php:66 includes/views/extrafield.edit.php:102
+msgid "Text"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:139
+#: includes/classes/inMedicalBookingAppointment.php:169
+#: includes/classes/inMedicalBookingAppointment.php:272
+#: includes/classes/inMedicalWorkingTable.php:196
+#: includes/function.admin.php:506 includes/views/booking.edit.php:105
+#: themes/medical.php:92
+msgid "Department"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:147
+#: includes/classes/inMediacalDoctor.php:726
+#: includes/classes/inMedicalBookingAppointment.php:222
+#: includes/function.admin.php:504 includes/views/booking.edit.php:53
+#: includes/views/booking.list.php:94
+msgid "Email"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:163
+msgid "Social Links"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:168
+msgid "Facebook"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:169
+msgid "Youtube"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:170
+msgid "Vimeo"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:171
+msgid "Flickr"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:172
+msgid "Google+"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:173
+msgid "Linkedin"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:174
+msgid "Tumblr"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:175
+msgid "Twitter"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:181
+msgid "Social Type"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:182
+#: includes/views/extrafield.edit.php:63
+msgid "Link"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:198
+#: includes/classes/inMediacalDoctor.php:215
+msgid "Social Link Value"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:201
+#: includes/classes/inMediacalDoctor.php:218
+#: includes/classes/inMediacalDoctor.php:263
+#: includes/classes/inMediacalDoctor.php:278
+msgid "Remove"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:225
+msgid "Add Social"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:257
+#: includes/classes/inMediacalDoctor.php:272
+msgid "Education Profile Title"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:260
+#: includes/classes/inMediacalDoctor.php:275
+msgid "Education Profile Value"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:285
+msgid "Add Profile"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:393
+msgid "Extrafield Information"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:397
+msgid "Field Name"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:478
+#: includes/views/extrafield.edit.php:101
+msgid "URL"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:537
+msgid "Create Gallery"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:545
+#: includes/classes/inMediacalDoctor.php:553
+#: includes/classes/inMediacalDoctor.php:631
+#: includes/classes/inMediacalDoctor.php:633
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:591
+msgid "Save Gallery"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:600
+msgid "Saving ..."
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:670
+msgid "Insert"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:717
+msgid "Email from \"Question Form\""
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:720
+msgid "Hi Admin,"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:720
+msgid "This email was sent from contact form"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:723
+#: includes/views/extrafield.edit.php:35 includes/views/extrafield.list.php:49
+msgid "Name"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:729
+#: includes/classes/inMedicalBookingAppointment.php:252
+#: themes/appointment_request_form.php:58
+msgid "Message"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:739
+msgid "Your message was sent, we will contact you soon"
+msgstr ""
+
+#: includes/classes/inMediacalDoctor.php:741
+msgid "Can't send message, please try again"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:31
+#: includes/views/booking.edit.php:76 themes/book_ticket_form_default.php:69
+msgid "Male"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:32
+#: includes/views/booking.edit.php:77 themes/book_ticket_form_default.php:70
+msgid "Female"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:33
+#: includes/views/booking.edit.php:78 themes/book_ticket_form_default.php:71
+msgid "Child"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:49 themes/timetable.php:50
+msgid "Monday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:50 themes/timetable.php:61
+msgid "Tuesday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:51 themes/timetable.php:74
+msgid "Wednesday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:52
+msgid "Thurday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:53 themes/timetable.php:96
+msgid "Friday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:54 themes/timetable.php:107
+msgid "Saturday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:55 themes/timetable.php:118
+msgid "Sunday"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:70
+msgid "0 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:71
+msgid "1 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:72
+msgid "2 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:73
+msgid "3 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:74
+msgid "4 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:75
+msgid "5 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:76
+msgid "6 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:77
+msgid "7 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:78
+msgid "8 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:79
+msgid "9 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:80
+msgid "10 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:81
+msgid "11 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:82
+msgid "12 AM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:83
+msgid "1 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:84
+msgid "2 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:85
+msgid "3 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:86
+msgid "4 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:87
+msgid "5 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:88
+msgid "6 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:89
+msgid "7 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:90
+msgid "8 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:91
+msgid "9 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:92
+msgid "10 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:93
+msgid "11 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:94
+msgid "12 PM"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:253
+msgid "Drag & Drop Appointment"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:256
+msgid "Time: "
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:257
+msgid "Date: "
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:258
+msgid "Unlimited"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:259
+msgid "Doctor: "
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:260
+msgid "Slots: "
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:263
+msgid "Duplicating..."
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:263
+msgid "Duplicate"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:264
+#: includes/function.admin.php:386 includes/views/booking.list.php:114
+#: includes/views/extrafield.list.php:73
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/inMedicalAppointment.php:265
+#: includes/views/booking.list.php:31 includes/views/booking.list.php:115
+#: includes/views/extrafield.list.php:26 includes/views/extrafield.list.php:74
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:11
+msgid "Booking info"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:50
+#: includes/classes/inMedicalBookingAppointment.php:164
+#: includes/classes/inMedicalBookingAppointment.php:303
+#: includes/function.admin.php:1087 includes/views/booking.edit.php:126
+#: includes/views/booking.list.php:70 includes/views/booking.list.php:127
+msgid "Accepted"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:53
+#: includes/classes/inMedicalBookingAppointment.php:166
+msgid "Cancelled"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:56
+#: includes/classes/inMedicalBookingAppointment.php:165
+#: includes/classes/inMedicalBookingAppointment.php:306
+#: includes/classes/inMedicalBookingAppointment.php:311
+msgid "Not Accepted"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:163
+#: includes/classes/inMedicalBookingAppointment.php:299
+#: includes/function.admin.php:502 includes/views/booking.edit.php:123
+#: includes/views/booking.list.php:95
+msgid "Status"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:182
+#: includes/classes/inMedicalBookingAppointment.php:283
+#: includes/classes/inMedicalWorkingTable.php:209
+#: includes/function.admin.php:272 includes/function.admin.php:507
+#: includes/views/booking.edit.php:112 themes/medical.php:99
+msgid "Doctor"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:195
+msgid "From Date"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:197
+msgid "To Date"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:210
+msgid "Patient Information"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:214
+#: includes/views/booking.edit.php:41
+msgid "First Name"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:218
+#: includes/views/booking.edit.php:49
+msgid "Last Name"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:226
+#: includes/function.admin.php:505
+msgid "Phone"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:230
+msgid "Age"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:234
+#: includes/views/booking.edit.php:72 themes/book_ticket_form_default.php:64
+msgid "Gender"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:237
+#: themes/appointment_request_form.php:39
+#: themes/book_ticket_form_default.php:68
+msgid "Select Gender"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:248
+#: includes/views/booking.edit.php:83 themes/book_ticket_form_default.php:78
+msgid "Address"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:262
+msgid "Appointment Information"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:291
+#: includes/views/extrafield.edit.php:68
+msgid "Date"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:295
+msgid "Time"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:312
+#: includes/classes/inMedicalBookingAppointment.php:439
+msgid "Accept"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:313
+#: includes/views/appointments.php:156 includes/views/appointments.php:164
+#: includes/views/booking.edit.php:127 includes/views/booking.list.php:71
+#: includes/views/booking.list.php:127
+msgid "Cancel"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:321
+#: includes/views/booking.edit.php:133
+msgid "Reason"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:375
+msgid "Booked"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:419
+msgid "Booking"
+msgstr ""
+
+#: includes/classes/inMedicalBookingAppointment.php:456
+#, php-format
+msgid "%d order accepted"
+msgid_plural "%d orders accepted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/inMedicalBookingEvent.php:209
+msgid "Insert success"
+msgstr ""
+
+#: includes/classes/inMedicalBookingEvent.php:230
+msgid "Update success"
+msgstr ""
+
+#: includes/classes/inMedicalEmail.php:54
+msgid "You don't have permission to access this link"
+msgstr ""
+
+#: includes/classes/inMedicalExtra.php:139
+msgid "Extrafield has been deleted"
+msgstr ""
+
+#: includes/classes/inMedicalExtra.php:144
+#, php-format
+msgid "No extrafield with id: %d"
+msgstr ""
+
+#: includes/classes/inMedicalExtra.php:154
+#, php-format
+msgid "Success delete Room extrafield with id: <strong>%s</strong>"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:21 themes/medical.php:169
+msgid "Event Location"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:24 themes/medical.php:106
+msgid "Event Organizer"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:27
+msgid "Event Detail"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:180
+msgid "Location"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:182
+msgid "Input Location"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:199 themes/timetable.php:13
+msgid "Select department"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:212
+#: includes/function.admin.php:938 includes/views/appointments.php:106
+msgid "Select doctor"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:217
+msgid "Custome Event Organizer"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:247
+msgid "Event Color"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:253
+msgid "Available tickets"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:259
+#: includes/views/booking.list.php:93
+msgid "Event Date"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:267
+msgid "Event Time Start"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:273
+msgid "Event Time End"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:281
+msgid "Event Repeat"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:284
+msgid "None"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:285
+msgid "Daily"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:286
+msgid "Weekly"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:287
+msgid "Monthly"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:288
+msgid "Yearly"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:289
+msgid "Custom"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:295
+#: includes/classes/inMedicalWorkingTable.php:309
+#: includes/classes/inMedicalWorkingTable.php:344
+#: includes/classes/inMedicalWorkingTable.php:367
+msgid "Gap between repeats"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:297
+msgid "day(s)"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:301
+#: includes/classes/inMedicalWorkingTable.php:315
+#: includes/classes/inMedicalWorkingTable.php:350
+#: includes/classes/inMedicalWorkingTable.php:373
+msgid "Number of repeats"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:311
+msgid "Week(s)"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:321
+msgid "Repeat Mode"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:324
+msgid "Single day"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:325
+#: includes/classes/inMedicalWorkingTable.php:360
+msgid "Day of week"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:330
+msgid "Repeat on selected days"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:346
+msgid "Month(s)"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:356
+msgid "Repeat by"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:359
+msgid "Day of month"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:369
+msgid "Year(s)"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:381
+msgid "Custom repeat list"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:390
+#, php-format
+msgid "From: %s - To: %s"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:398
+msgid "Please input date"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:400
+msgid "From"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:407
+msgid "To"
+msgstr ""
+
+#: includes/classes/inMedicalWorkingTable.php:413
+msgid "Add Custom Repeat"
+msgstr ""
+
+#: includes/classes/iwPaging.php:143 includes/classes/iwPaging.php:145
+msgid "Prev page"
+msgstr ""
+
+#: includes/classes/iwPaging.php:150 includes/classes/iwPaging.php:152
+msgid "Next page"
+msgstr ""
+
+#: includes/function.admin.php:23
+msgid "Sidebar Departments"
+msgstr ""
+
+#: includes/function.admin.php:33
+msgid "Sidebar Department Detail"
+msgstr ""
+
+#: includes/function.admin.php:45 includes/function.admin.php:1146
+msgid "Doctors"
+msgstr ""
+
+#: includes/function.admin.php:48 includes/function.admin.php:1154
+msgid "Appointments"
+msgstr ""
+
+#: includes/function.admin.php:49
+msgid "Appointment Orders Appts"
+msgstr ""
+
+#: includes/function.admin.php:49
+msgid "Appointment Orders"
+msgstr ""
+
+#: includes/function.admin.php:52 includes/function.admin.php:1170
+msgid "Events"
+msgstr ""
+
+#: includes/function.admin.php:53 includes/function.admin.php:1178
+msgid "Event Orders"
+msgstr ""
+
+#: includes/function.admin.php:54
+msgid "Booking Info"
+msgstr ""
+
+#: includes/function.admin.php:56
+msgid "Department Extrafield"
+msgstr ""
+
+#: includes/function.admin.php:56 includes/function.admin.php:1186
+#: includes/views/extrafield.list.php:23
+msgid "Extrafields"
+msgstr ""
+
+#: includes/function.admin.php:57
+msgid "Add Room Extrafield"
+msgstr ""
+
+#: includes/function.admin.php:58 includes/views/extrafield.edit.php:25
+msgid "Edit Room Extrafield"
+msgstr ""
+
+#: includes/function.admin.php:61 includes/function.admin.php:1194
+msgid "Settings"
+msgstr ""
+
+#: includes/function.admin.php:218
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr ""
+
+#: includes/function.admin.php:219
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr ""
+
+#: includes/function.admin.php:220
+msgid "Medical Event"
+msgstr ""
+
+#: includes/function.admin.php:221
+msgid "Parent Event:"
+msgstr ""
+
+#: includes/function.admin.php:222
+msgid "All Events"
+msgstr ""
+
+#: includes/function.admin.php:223 themes/upcomming_event.php:80
+msgid "View Event"
+msgstr ""
+
+#: includes/function.admin.php:224
+msgid "Add New Event"
+msgstr ""
+
+#: includes/function.admin.php:225 includes/function.admin.php:277
+#: includes/function.admin.php:330 includes/function.admin.php:383
+#: includes/function.admin.php:385 includes/views/extrafield.list.php:24
+msgid "Add New"
+msgstr ""
+
+#: includes/function.admin.php:226 includes/function.admin.php:278
+#: includes/function.admin.php:331
+msgid "Edit Item"
+msgstr ""
+
+#: includes/function.admin.php:227 includes/function.admin.php:279
+#: includes/function.admin.php:332
+msgid "Update Item"
+msgstr ""
+
+#: includes/function.admin.php:228 includes/function.admin.php:280
+#: includes/function.admin.php:333
+msgid "Search Item"
+msgstr ""
+
+#: includes/function.admin.php:229 includes/function.admin.php:281
+#: includes/function.admin.php:334 includes/function.admin.php:390
+msgid "Not found"
+msgstr ""
+
+#: includes/function.admin.php:230 includes/function.admin.php:282
+#: includes/function.admin.php:335 includes/function.admin.php:391
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/function.admin.php:239
+msgid "inmedical"
+msgstr ""
+
+#: includes/function.admin.php:240
+msgid "Inwave Medical"
+msgstr ""
+
+#: includes/function.admin.php:270
+msgctxt "Post Type General Name"
+msgid "Doctors"
+msgstr ""
+
+#: includes/function.admin.php:271
+msgctxt "Post Type Singular Name"
+msgid "Doctor"
+msgstr ""
+
+#: includes/function.admin.php:273
+msgid "Parent Doctor:"
+msgstr ""
+
+#: includes/function.admin.php:274
+msgid "All Doctors"
+msgstr ""
+
+#: includes/function.admin.php:275
+msgid "View Doctor"
+msgstr ""
+
+#: includes/function.admin.php:276
+msgid "Add New Doctor"
+msgstr ""
+
+#: includes/function.admin.php:291
+msgid "indoctor"
+msgstr ""
+
+#: includes/function.admin.php:292
+msgid "Inwave Doctor"
+msgstr ""
+
+#: includes/function.admin.php:323
+msgctxt "Post Type General Name"
+msgid "Inmedical"
+msgstr ""
+
+#: includes/function.admin.php:324
+msgctxt "Post Type Singular Name"
+msgid "Department"
+msgstr ""
+
+#: includes/function.admin.php:325
+msgid "Inmedical"
+msgstr ""
+
+#: includes/function.admin.php:326
+msgid "Parent Department:"
+msgstr ""
+
+#: includes/function.admin.php:327 includes/function.admin.php:1138
+msgid "Departments"
+msgstr ""
+
+#: includes/function.admin.php:328
+msgid "View Department"
+msgstr ""
+
+#: includes/function.admin.php:329
+msgid "Add New Department"
+msgstr ""
+
+#: includes/function.admin.php:344
+msgid "indepartment"
+msgstr ""
+
+#: includes/function.admin.php:345
+msgid "Inwave Department"
+msgstr ""
+
+#: includes/function.admin.php:381 includes/function.admin.php:384
+msgid "Booking Appointments"
+msgstr ""
+
+#: includes/function.admin.php:382
+msgid "Booking Appointment"
+msgstr ""
+
+#: includes/function.admin.php:387
+msgid "New"
+msgstr ""
+
+#: includes/function.admin.php:388
+msgid "View"
+msgstr ""
+
+#: includes/function.admin.php:389 includes/views/booking.list.php:78
+#: includes/views/extrafield.list.php:36
+msgid "Search"
+msgstr ""
+
+#: includes/function.admin.php:501 includes/views/appointments.php:77
+#: includes/views/settings.php:173 includes/views/settings.php:213
+#: includes/views/settings.php:253 includes/views/settings.php:300
+#: includes/views/settings.php:354 includes/views/settings.php:394
+#: includes/views/settings.php:434 includes/views/settings.php:481
+msgid "Title"
+msgstr ""
+
+#: includes/function.admin.php:503
+msgid "Full Name"
+msgstr ""
+
+#: includes/function.admin.php:508
+msgid "Appointment Date"
+msgstr ""
+
+#: includes/function.admin.php:668
+#, php-format
+msgid "No extrafield found with id = <strong>%d</strong>"
+msgstr ""
+
+#: includes/function.admin.php:687
+msgid "- Please input name of field<br/>"
+msgstr ""
+
+#: includes/function.admin.php:695
+msgid "- Please select a field type<br/>"
+msgstr ""
+
+#: includes/function.admin.php:745
+msgid "No data send"
+msgstr ""
+
+#: includes/function.admin.php:763
+msgid "Booking extrafield has been removed"
+msgstr ""
+
+#: includes/function.admin.php:766
+msgid "No id set or id invalid"
+msgstr ""
+
+#: includes/function.admin.php:921
+msgid "Unknown error"
+msgstr ""
+
+#: includes/function.admin.php:924
+msgid "Please select row(s) to delete"
+msgstr ""
+
+#: includes/function.admin.php:1042
+#, php-format
+msgid "No appointment found with id = <strong>%d</strong>"
+msgstr ""
+
+#: includes/function.admin.php:1073
+msgid "Update booking success"
+msgstr ""
+
+#: includes/function.admin.php:1089 includes/views/booking.list.php:127
+msgid "Click to quick accept"
+msgstr ""
+
+#: includes/function.admin.php:1089 includes/views/booking.list.php:127
+msgid "Accept now"
+msgstr ""
+
+#: includes/function.admin.php:1104
+msgid "InMedical - Medical & Hopital Managerment Plugin"
+msgstr ""
+
+#: includes/function.admin.php:1105
+#, php-format
+msgid "You are using version %s"
+msgstr ""
+
+#: includes/function.admin.php:1162
+msgid "Appointment Order"
+msgstr ""
+
+#: includes/function.admin.php:1201
+msgid "General"
+msgstr ""
+
+#: includes/function.admin.php:1208
+msgid "Appointment Mail Template"
+msgstr ""
+
+#: includes/function.admin.php:1215
+msgid "Event Mail Template"
+msgstr ""
+
+#: includes/function.admin.php:1252 includes/utility.php:901
+msgid "- Click on map to set map position."
+msgstr ""
+
+#: includes/function.admin.php:1253 includes/utility.php:902
+msgid "- Drag and Drop marker to set map position."
+msgstr ""
+
+#: includes/function.admin.php:1254 includes/utility.php:903
+msgid "- ZoomIn or ZoomOut to change and set map Zoom Level."
+msgstr ""
+
+#: includes/function.front.php:36 includes/function.front.php:63
+#: includes/function.front.php:94 includes/function.front.php:137
+#: includes/function.front.php:163 includes/function.front.php:208
+#: includes/function.front.php:238 includes/function.front.php:269
+#: includes/function.front.php:391 includes/function.front.php:421
+#: includes/function.front.php:487 includes/function.front.php:518
+#: includes/function.front.php:549 includes/themes/single-indepartment.php:32
+#: includes/themes/single-indoctor.php:32
+#: includes/themes/single-inmedical.php:32 themes/appointments.php:41
+msgid "No theme was found"
+msgstr ""
+
+#: includes/function.front.php:369
+msgid "Your booking ticket was sent, we will contact you soon."
+msgstr ""
+
+#: includes/function.front.php:371
+msgid "Your booking can't send, please try again or contact website admin."
+msgstr ""
+
+#: includes/function.front.php:455
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: includes/function.front.php:464
+msgid "Please select an appointment."
+msgstr ""
+
+#: includes/function.front.php:472
+msgid "Sorry, can book this appoinment please refresh the page and try again."
+msgstr ""
+
+#: includes/utility.php:41
+msgid "Select all"
+msgstr ""
+
+#: includes/utility.php:44 includes/utility.php:62
+msgid "Select category"
+msgstr ""
+
+#: includes/utility.php:338
+msgid "Thanks for donate"
+msgstr ""
+
+#: includes/utility.php:363
+msgid "The email has been sent"
+msgstr ""
+
+#: includes/utility.php:366
+msgid "Can't send email to donor when donate, please check settings or code."
+msgstr ""
+
+#: includes/utility.php:367
+msgid "Can't send email present"
+msgstr ""
+
+#: includes/utility.php:398
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: includes/utility.php:399
+msgid "Afghan afghani"
+msgstr ""
+
+#: includes/utility.php:400
+msgid "Albanian lek"
+msgstr ""
+
+#: includes/utility.php:401
+msgid "Armenian dram"
+msgstr ""
+
+#: includes/utility.php:402
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: includes/utility.php:403
+msgid "Angolan kwanza"
+msgstr ""
+
+#: includes/utility.php:404
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/utility.php:405
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/utility.php:406
+msgid "Aruban florin"
+msgstr ""
+
+#: includes/utility.php:407
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: includes/utility.php:408
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: includes/utility.php:409
+msgid "Barbadian dollar"
+msgstr ""
+
+#: includes/utility.php:410
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: includes/utility.php:411
+msgid "Bulgarian lev"
+msgstr ""
+
+#: includes/utility.php:412
+msgid "Bahraini dinar"
+msgstr ""
+
+#: includes/utility.php:413
+msgid "Burundian franc"
+msgstr ""
+
+#: includes/utility.php:414
+msgid "Bermudian dollar"
+msgstr ""
+
+#: includes/utility.php:415
+msgid "Brunei dollar"
+msgstr ""
+
+#: includes/utility.php:416
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: includes/utility.php:417
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/utility.php:418
+msgid "Bahamian dollar"
+msgstr ""
+
+#: includes/utility.php:419
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/utility.php:420
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: includes/utility.php:421
+msgid "Botswana pula"
+msgstr ""
+
+#: includes/utility.php:422
+msgid "Belarusian ruble"
+msgstr ""
+
+#: includes/utility.php:423
+msgid "Belize dollar"
+msgstr ""
+
+#: includes/utility.php:424
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/utility.php:425
+msgid "Congolese franc"
+msgstr ""
+
+#: includes/utility.php:426
+msgid "Swiss franc"
+msgstr ""
+
+#: includes/utility.php:427
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/utility.php:428
+msgid "Chinese yuan"
+msgstr ""
+
+#: includes/utility.php:429
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/utility.php:430
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: includes/utility.php:431
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: includes/utility.php:432
+msgid "Cuban peso"
+msgstr ""
+
+#: includes/utility.php:433
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: includes/utility.php:434
+msgid "Czech koruna"
+msgstr ""
+
+#: includes/utility.php:435
+msgid "Djiboutian franc"
+msgstr ""
+
+#: includes/utility.php:436
+msgid "Danish krone"
+msgstr ""
+
+#: includes/utility.php:437
+msgid "Dominican peso"
+msgstr ""
+
+#: includes/utility.php:438
+msgid "Algerian dinar"
+msgstr ""
+
+#: includes/utility.php:439
+msgid "Egyptian pound"
+msgstr ""
+
+#: includes/utility.php:440
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: includes/utility.php:441
+msgid "Ethiopian birr"
+msgstr ""
+
+#: includes/utility.php:442
+msgid "Euro"
+msgstr ""
+
+#: includes/utility.php:443
+msgid "Fijian dollar"
+msgstr ""
+
+#: includes/utility.php:444
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: includes/utility.php:445
+msgid "Pound sterling"
+msgstr ""
+
+#: includes/utility.php:446
+msgid "Georgian lari"
+msgstr ""
+
+#: includes/utility.php:447
+msgid "Guernsey pound"
+msgstr ""
+
+#: includes/utility.php:448
+msgid "Ghana cedi"
+msgstr ""
+
+#: includes/utility.php:449
+msgid "Gibraltar pound"
+msgstr ""
+
+#: includes/utility.php:450
+msgid "Gambian dalasi"
+msgstr ""
+
+#: includes/utility.php:451
+msgid "Guinean franc"
+msgstr ""
+
+#: includes/utility.php:452
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: includes/utility.php:453
+msgid "Guyanese dollar"
+msgstr ""
+
+#: includes/utility.php:454
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/utility.php:455
+msgid "Honduran lempira"
+msgstr ""
+
+#: includes/utility.php:456
+msgid "Croatian kuna"
+msgstr ""
+
+#: includes/utility.php:457
+msgid "Haitian gourde"
+msgstr ""
+
+#: includes/utility.php:458
+msgid "Hungarian forint"
+msgstr ""
+
+#: includes/utility.php:459
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: includes/utility.php:460
+msgid "Israeli new shekel"
+msgstr ""
+
+#: includes/utility.php:461
+msgid "Manx pound"
+msgstr ""
+
+#: includes/utility.php:462
+msgid "Indian rupee"
+msgstr ""
+
+#: includes/utility.php:463
+msgid "Iraqi dinar"
+msgstr ""
+
+#: includes/utility.php:464
+msgid "Iranian rial"
+msgstr ""
+
+#: includes/utility.php:465
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: includes/utility.php:466
+msgid "Jersey pound"
+msgstr ""
+
+#: includes/utility.php:467
+msgid "Jamaican dollar"
+msgstr ""
+
+#: includes/utility.php:468
+msgid "Jordanian dinar"
+msgstr ""
+
+#: includes/utility.php:469
+msgid "Japanese yen"
+msgstr ""
+
+#: includes/utility.php:470
+msgid "Kenyan shilling"
+msgstr ""
+
+#: includes/utility.php:471
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: includes/utility.php:472
+msgid "Cambodian riel"
+msgstr ""
+
+#: includes/utility.php:473
+msgid "Comorian franc"
+msgstr ""
+
+#: includes/utility.php:474
+msgid "North Korean won"
+msgstr ""
+
+#: includes/utility.php:475
+msgid "South Korean won"
+msgstr ""
+
+#: includes/utility.php:476
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: includes/utility.php:477
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: includes/utility.php:478
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/utility.php:479
+msgid "Lao kip"
+msgstr ""
+
+#: includes/utility.php:480
+msgid "Lebanese pound"
+msgstr ""
+
+#: includes/utility.php:481
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: includes/utility.php:482
+msgid "Liberian dollar"
+msgstr ""
+
+#: includes/utility.php:483
+msgid "Lesotho loti"
+msgstr ""
+
+#: includes/utility.php:484
+msgid "Libyan dinar"
+msgstr ""
+
+#: includes/utility.php:485
+msgid "Moroccan dirham"
+msgstr ""
+
+#: includes/utility.php:486
+msgid "Moldovan leu"
+msgstr ""
+
+#: includes/utility.php:487
+msgid "Malagasy ariary"
+msgstr ""
+
+#: includes/utility.php:488
+msgid "Macedonian denar"
+msgstr ""
+
+#: includes/utility.php:489
+msgid "Burmese kyat"
+msgstr ""
+
+#: includes/utility.php:490
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: includes/utility.php:491
+msgid "Macanese pataca"
+msgstr ""
+
+#: includes/utility.php:492
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: includes/utility.php:493
+msgid "Mauritian rupee"
+msgstr ""
+
+#: includes/utility.php:494
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: includes/utility.php:495
+msgid "Malawian kwacha"
+msgstr ""
+
+#: includes/utility.php:496
+msgid "Mexican peso"
+msgstr ""
+
+#: includes/utility.php:497
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: includes/utility.php:498
+msgid "Mozambican metical"
+msgstr ""
+
+#: includes/utility.php:499
+msgid "Namibian dollar"
+msgstr ""
+
+#: includes/utility.php:500
+msgid "Nigerian naira"
+msgstr ""
+
+#: includes/utility.php:501
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: includes/utility.php:502
+msgid "Norwegian krone"
+msgstr ""
+
+#: includes/utility.php:503
+msgid "Nepalese rupee"
+msgstr ""
+
+#: includes/utility.php:504
+msgid "New Zealand dollar"
+msgstr ""
+
+#: includes/utility.php:505
+msgid "Omani rial"
+msgstr ""
+
+#: includes/utility.php:506
+msgid "Panamanian balboa"
+msgstr ""
+
+#: includes/utility.php:507
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: includes/utility.php:508
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: includes/utility.php:509
+msgid "Philippine peso"
+msgstr ""
+
+#: includes/utility.php:510
+msgid "Pakistani rupee"
+msgstr ""
+
+#: includes/utility.php:511
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: includes/utility.php:512
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: includes/utility.php:513
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: includes/utility.php:514
+msgid "Qatari riyal"
+msgstr ""
+
+#: includes/utility.php:515
+msgid "Romanian leu"
+msgstr ""
+
+#: includes/utility.php:516
+msgid "Serbian dinar"
+msgstr ""
+
+#: includes/utility.php:517
+msgid "Russian ruble"
+msgstr ""
+
+#: includes/utility.php:518
+msgid "Rwandan franc"
+msgstr ""
+
+#: includes/utility.php:519
+msgid "Saudi riyal"
+msgstr ""
+
+#: includes/utility.php:520
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: includes/utility.php:521
+msgid "Seychellois rupee"
+msgstr ""
+
+#: includes/utility.php:522
+msgid "Sudanese pound"
+msgstr ""
+
+#: includes/utility.php:523
+msgid "Swedish krona"
+msgstr ""
+
+#: includes/utility.php:524
+msgid "Singapore dollar"
+msgstr ""
+
+#: includes/utility.php:525
+msgid "Saint Helena pound"
+msgstr ""
+
+#: includes/utility.php:526
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: includes/utility.php:527
+msgid "Somali shilling"
+msgstr ""
+
+#: includes/utility.php:528
+msgid "Surinamese dollar"
+msgstr ""
+
+#: includes/utility.php:529
+msgid "South Sudanese pound"
+msgstr ""
+
+#: includes/utility.php:530
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: includes/utility.php:531
+msgid "Syrian pound"
+msgstr ""
+
+#: includes/utility.php:532
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: includes/utility.php:533
+msgid "Thai baht"
+msgstr ""
+
+#: includes/utility.php:534
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: includes/utility.php:535
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: includes/utility.php:536
+msgid "Tunisian dinar"
+msgstr ""
+
+#: includes/utility.php:537
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: includes/utility.php:538
+msgid "Turkish lira"
+msgstr ""
+
+#: includes/utility.php:539
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: includes/utility.php:540
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: includes/utility.php:541
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: includes/utility.php:542
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: includes/utility.php:543
+msgid "Ugandan shilling"
+msgstr ""
+
+#: includes/utility.php:544
+msgid "United States dollar"
+msgstr ""
+
+#: includes/utility.php:545
+msgid "Uruguayan peso"
+msgstr ""
+
+#: includes/utility.php:546
+msgid "Uzbekistani som"
+msgstr ""
+
+#: includes/utility.php:547
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: includes/utility.php:548
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: includes/utility.php:549
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: includes/utility.php:550
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: includes/utility.php:551
+msgid "Central African CFA franc"
+msgstr ""
+
+#: includes/utility.php:552
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: includes/utility.php:553
+msgid "West African CFA franc"
+msgstr ""
+
+#: includes/utility.php:554
+msgid "CFP franc"
+msgstr ""
+
+#: includes/utility.php:555
+msgid "Yemeni rial"
+msgstr ""
+
+#: includes/utility.php:556
+msgid "South African rand"
+msgstr ""
+
+#: includes/utility.php:557
+msgid "Zambian kwacha"
+msgstr ""
+
+#: includes/views/appointments.php:61 includes/views/appointments.php:63
+msgid "Add Appointment"
+msgstr ""
+
+#: includes/views/appointments.php:81
+msgid "Select start time"
+msgstr ""
+
+#: includes/views/appointments.php:92
+msgid "Select end time"
+msgstr ""
+
+#: includes/views/appointments.php:102
+msgid "Slot"
+msgstr ""
+
+#: includes/views/appointments.php:141
+msgid "Custom Repeating"
+msgstr ""
+
+#: includes/views/appointments.php:144
+msgid "Date Start"
+msgstr ""
+
+#: includes/views/appointments.php:147
+msgid "Date End"
+msgstr ""
+
+#: includes/views/appointments.php:153 includes/views/appointments.php:155
+#: includes/views/booking.edit.php:144 includes/views/extrafield.edit.php:200
+msgid "Save"
+msgstr ""
+
+#: includes/views/appointments.php:154
+msgid "Save and add to all days"
+msgstr ""
+
+#: includes/views/appointments.php:162
+msgid "Are you sure want to delete this."
+msgstr ""
+
+#: includes/views/appointments.php:163
+msgid "Deleting..."
+msgstr ""
+
+#: includes/views/appointments.php:163
+msgid "Continue"
+msgstr ""
+
+#: includes/views/booking.edit.php:29
+msgid "Booking event update"
+msgstr ""
+
+#: includes/views/booking.edit.php:32 includes/views/booking.edit.php:94
+msgid "Booking information"
+msgstr ""
+
+#: includes/views/booking.edit.php:37
+msgid "Customer information"
+msgstr ""
+
+#: includes/views/booking.edit.php:57
+msgid "Phone number"
+msgstr ""
+
+#: includes/views/booking.edit.php:61 themes/book_ticket_form_default.php:54
+#: themes/book_ticket_form_default.php:58
+msgid "Date of birth"
+msgstr ""
+
+#: includes/views/booking.edit.php:75
+msgid "Select gender"
+msgstr ""
+
+#: includes/views/booking.edit.php:87
+msgid "Note"
+msgstr ""
+
+#: includes/views/booking.edit.php:98 includes/views/booking.list.php:92
+msgid "Event name"
+msgstr ""
+
+#: includes/views/booking.edit.php:119 themes/medical.php:76
+msgid "Event date"
+msgstr ""
+
+#: includes/views/booking.edit.php:128 includes/views/booking.list.php:69
+msgid "Pending"
+msgstr ""
+
+#: includes/views/booking.list.php:29
+msgid "Bookings"
+msgstr ""
+
+#: includes/views/booking.list.php:36 includes/views/extrafield.list.php:31
+msgid "Filter"
+msgstr ""
+
+#: includes/views/booking.list.php:37 includes/views/extrafield.list.php:32
+msgid "Input keyword to search"
+msgstr ""
+
+#: includes/views/booking.list.php:62
+msgid "Any"
+msgstr ""
+
+#: includes/views/booking.list.php:68 themes/doctors_grid.php:8
+#: themes/doctors_grid_v2.php:8 themes/doctors_grid_v3.php:8
+msgid "All"
+msgstr ""
+
+#: includes/views/booking.list.php:88 includes/views/extrafield.list.php:46
+msgid "Select All"
+msgstr ""
+
+#: includes/views/booking.list.php:91
+msgid "Customer name"
+msgstr ""
+
+#: includes/views/booking.list.php:110
+msgid "view this item"
+msgstr ""
+
+#: includes/views/booking.list.php:114 includes/views/extrafield.list.php:69
+#: includes/views/extrafield.list.php:73
+msgid "Edit this item"
+msgstr ""
+
+#: includes/views/booking.list.php:115 includes/views/extrafield.list.php:74
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: includes/views/booking.list.php:141 includes/views/extrafield.list.php:93
+msgid "No result"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:26
+msgid "Add New Other"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:29
+msgid "Add new Room Extrafield"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:41
+msgid "Name of booking extrafield"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:52
+msgid "Icon name using font Awesome"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:57 includes/views/extrafield.list.php:50
+msgid "Type"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:62
+msgid "Textarea"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:64
+msgid "Image"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:65
+msgid "Measurement"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:67
+msgid "Dropdown list"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:78
+msgid "Extrafield type"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:83
+msgid "Default value"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:87
+msgid "Some Text value here"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:123
+msgid "Unit"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:124
+msgid "Enter unit. Example: $, Kg, m2"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:129
+msgid "Text value"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:143
+msgid "VALUE|TEXT|1"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:144
+msgid ""
+"Multiple options are separated by newline with syntax: Value|Text|Selected(1 "
+"or 0). Example:<br />VALUE_1|TEXT_1|1<br />VALUE_2|TEXT_2|0<br />VALUE_3|"
+"TEXT_3|1"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:166
+msgid "Description"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:172
+msgid "More information of extrafield"
+msgstr ""
+
+#: includes/views/extrafield.edit.php:177 includes/views/extrafield.list.php:51
+msgid "Published"
+msgstr ""
+
+#: includes/views/extrafield.list.php:78 includes/views/settings.php:81
+#: includes/views/settings.php:95 includes/views/settings.php:109
+msgid "Yes"
+msgstr ""
+
+#: includes/views/extrafield.list.php:78 includes/views/settings.php:80
+#: includes/views/settings.php:94 includes/views/settings.php:108
+msgid "No"
+msgstr ""
+
+#: includes/views/settings.php:29
+msgid "Plugin Settings"
+msgstr ""
+
+#: includes/views/settings.php:35
+msgid "Event slug"
+msgstr ""
+
+#: includes/views/settings.php:43
+msgid "Doctor slug"
+msgstr ""
+
+#: includes/views/settings.php:51
+msgid "Department slug"
+msgstr ""
+
+#: includes/views/settings.php:59
+msgid "How many days the Appointment show in department detail page?"
+msgstr ""
+
+#: includes/views/settings.php:67
+msgid "How many days the Appointment show in doctor detail page?"
+msgstr ""
+
+#: includes/views/settings.php:75
+msgid "Auto accept booking event"
+msgstr ""
+
+#: includes/views/settings.php:89
+msgid "Show empty day"
+msgstr ""
+
+#: includes/views/settings.php:103
+msgid "Auto accept booking appointment"
+msgstr ""
+
+#: includes/views/settings.php:117
+msgid "Only allow book before (n) hours"
+msgstr ""
+
+#: includes/views/settings.php:125
+msgid "Days off work"
+msgstr ""
+
+#: includes/views/settings.php:144
+msgid "Appointment Email Templates"
+msgstr ""
+
+#: includes/views/settings.php:149 includes/views/settings.php:330
+msgid "Email shortcodes"
+msgstr ""
+
+#: includes/views/settings.php:157 includes/views/settings.php:284
+msgid "New A Booking Appoinment"
+msgstr ""
+
+#: includes/views/settings.php:162 includes/views/settings.php:202
+#: includes/views/settings.php:242 includes/views/settings.php:289
+#: includes/views/settings.php:343 includes/views/settings.php:383
+#: includes/views/settings.php:423 includes/views/settings.php:470
+msgid "Enable"
+msgstr ""
+
+#: includes/views/settings.php:184 includes/views/settings.php:224
+#: includes/views/settings.php:264 includes/views/settings.php:311
+#: includes/views/settings.php:365 includes/views/settings.php:405
+#: includes/views/settings.php:445 includes/views/settings.php:492
+msgid "Content"
+msgstr ""
+
+#: includes/views/settings.php:197
+msgid "Accept A Booking Appoinment"
+msgstr ""
+
+#: includes/views/settings.php:237
+msgid "Cancel A Booking Appoinment"
+msgstr ""
+
+#: includes/views/settings.php:277 includes/views/settings.php:458
+msgid "Admin Email Templates"
+msgstr ""
+
+#: includes/views/settings.php:325
+msgid "Event email template"
+msgstr ""
+
+#: includes/views/settings.php:338 includes/views/settings.php:465
+msgid "New A Booking Event"
+msgstr ""
+
+#: includes/views/settings.php:378
+msgid "Accept A Booking Event"
+msgstr ""
+
+#: includes/views/settings.php:418
+msgid "Cancel A Booking Event"
+msgstr ""
+
+#: includes/widgets/our-departments.php:9
+msgid "Display InMedical our departments."
+msgstr ""
+
+#: includes/widgets/our-departments.php:10
+msgid "InMedical Our Departments"
+msgstr ""
+
+#: includes/widgets/our-departments.php:25
+#: includes/widgets/our-departments.php:59
+msgid "Our Departments"
+msgstr ""
+
+#: includes/widgets/our-departments.php:63
+msgid "Title:"
+msgstr ""
+
+#: themes/appointment_available_list.php:24
+#: themes/appointments_scroll_vertical.php:63 themes/department.php:146
+#: themes/doctor.php:157
+#, php-format
+msgid "%d Slot Available"
+msgid_plural "%d Slots Available"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themes/appointment_available_list.php:28
+#: themes/appointments_scroll_vertical.php:66
+msgid "Book Appointment"
+msgstr ""
+
+#: themes/appointment_available_list.php:38
+msgid ""
+"Sorry, do not have any appointments please refresh the page and try again."
+msgstr ""
+
+#: themes/appointment_request_form.php:3
+msgid "Request an <strong>Appointment</strong>"
+msgstr ""
+
+#: themes/appointment_request_form.php:5
+#, php-format
+msgid ""
+"You are about to request an appointment for <strong>%s</strong> on <strong>"
+"%s</strong> at <strong>%s</strong>. Please review and input form that you "
+"would like to request the following appointment."
+msgstr ""
+
+#: themes/appointment_request_form.php:13
+msgid "First Name*"
+msgstr ""
+
+#: themes/appointment_request_form.php:17
+msgid "Last Name*"
+msgstr ""
+
+#: themes/appointment_request_form.php:23
+msgid "Your Email*"
+msgstr ""
+
+#: themes/appointment_request_form.php:27
+msgid "Your Phone*"
+msgstr ""
+
+#: themes/appointment_request_form.php:33
+msgid "Age*"
+msgstr ""
+
+#: themes/appointment_request_form.php:37
+msgid "Gender*"
+msgstr ""
+
+#: themes/appointment_request_form.php:51
+msgid "Address*"
+msgstr ""
+
+#: themes/appointment_request_form.php:72
+msgid "Sending..."
+msgstr ""
+
+#: themes/appointment_request_form.php:72
+msgid "Request Now"
+msgstr ""
+
+#: themes/appointment_thanks.php:3
+msgid "Congratulation!"
+msgstr ""
+
+#: themes/appointment_thanks.php:5
+msgid ""
+"Your appointment request has been sent. We will sent you<br> a confirmation "
+"email."
+msgstr ""
+
+#: themes/appointment_thanks.php:6
+msgid "Thank you so much!"
+msgstr ""
+
+#: themes/appointments_body.php:61
+#, php-format
+msgid "%d Available"
+msgstr ""
+
+#: themes/appointments_scroll_vertical.php:56
+msgctxt "Date format"
+msgid "j F"
+msgstr ""
+
+#: themes/appointments_scroll_vertical.php:76
+#, php-format
+msgid ""
+"Available Appointments from <strong class=\"theme-color\">%s</strong> to "
+"<strong class=\"theme-color\">%s</strong>"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:11 themes/event_listing.php:117
+#: themes/medical.php:118
+msgid "Online Registration Unavailable"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:14
+msgid "Event expired, so you can't book ticket"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:22
+msgid "First name"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:25
+msgid "Enter your first name"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:29
+msgid "Last name"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:32
+msgid "Enter your last name"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:38
+#: themes/book_ticket_form_default.php:41 themes/doctor.php:229
+msgid "Your email"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:45
+#: themes/book_ticket_form_default.php:48
+msgid "Your phone"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:81
+msgid "Your address"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:87
+#: themes/book_ticket_form_default.php:90
+msgid "Reason for appointment"
+msgstr ""
+
+#: themes/book_ticket_form_default.php:101
+msgid "Book now"
+msgstr ""
+
+#: themes/department.php:36
+msgid "Our departments"
+msgstr ""
+
+#: themes/department.php:71 themes/doctor.php:93
+msgid "General Information"
+msgstr ""
+
+#: themes/department.php:79
+msgid "Our doctors"
+msgstr ""
+
+#: themes/department.php:87 themes/doctor.php:101
+msgid "Working Schedule"
+msgstr ""
+
+#: themes/department.php:150 themes/doctor.php:161 themes/event_listing.php:120
+msgid "Booking a ticket"
+msgstr ""
+
+#: themes/departments_carousel_slider.php:46
+#: themes/departments_carousel_slider_v2.php:55 themes/doctors_grid.php:50
+msgid "Read more"
+msgstr ""
+
+#: themes/departments_carousel_slider_v3.php:39 themes/departments_grid.php:23
+#: themes/departments_grid_v2.php:27
+msgid "read more"
+msgstr ""
+
+#: themes/departments_slick_slider.php:33
+msgid "Make an appointment"
+msgstr ""
+
+#: themes/doctor.php:56
+msgid "Social Profile"
+msgstr ""
+
+#: themes/doctor.php:68
+msgid "view doctor schedules"
+msgstr ""
+
+#: themes/doctor.php:109
+msgid "Client reviews"
+msgstr ""
+
+#: themes/doctor.php:194
+msgid "Education & Training"
+msgstr ""
+
+#: themes/doctor.php:221
+msgid "Send a question"
+msgstr ""
+
+#: themes/doctor.php:225
+msgid "Your name"
+msgstr ""
+
+#: themes/doctor.php:233
+msgid "Your message"
+msgstr ""
+
+#: themes/doctor.php:240
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: themes/doctor.php:250
+msgid "meet"
+msgstr ""
+
+#: themes/doctor.php:250
+msgid "other doctors"
+msgstr ""
+
+#: themes/doctors_carousel_slider.php:72 themes/medical.php:158
+msgid "View profile"
+msgstr ""
+
+#: themes/doctors_schedule_style1.php:84
+msgid "View full schedules"
+msgstr ""
+
+#: themes/doctors_schedule_style1.php:87
+msgid "There is no schedule today."
+msgstr ""
+
+#: themes/event_listing.php:80
+msgid "Upcomming"
+msgstr ""
+
+#: themes/event_listing.php:95
+msgid "Booking <span>Event</span>"
+msgstr ""
+
+#: themes/event_listing.php:96
+msgid "Claritas est etiam processus dynamicus, qui sequitur mutationem"
+msgstr ""
+
+#: themes/event_listing.php:113 themes/medical.php:114
+#, php-format
+msgid "%d Openings Available"
+msgstr ""
+
+#: themes/event_listing.php:115 themes/medical.php:116
+#, php-format
+msgid "%d Opening Available"
+msgstr ""
+
+#: themes/medical.php:36
+msgid "Event detail"
+msgstr ""
+
+#: themes/medical.php:44
+msgid "Booking event"
+msgstr ""
+
+#: themes/medical.php:72
+msgid "Event Information"
+msgstr ""
+
+#: themes/medical.php:83
+msgid "Event time"
+msgstr ""
+
+#: themes/medical.php:126
+msgid "Head doctor"
+msgstr ""
+
+#: themes/timetable.php:85
+msgid "Thursday"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "InMedical"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "InwaveThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.inwavethemes.com"
+msgstr ""
